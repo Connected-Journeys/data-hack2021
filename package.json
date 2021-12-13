@@ -14,7 +14,8 @@
   },
   "scripts": {
     "test": "npm test",
-    "build:parcel": "parcel build src/index.html --dist-dir './docs'"
+    "build:parcel": "parcel build src/index.html --dist-dir './docs'",
+    "build:production": "rm -rf docs && parcel build src/index.html --dist-dir './docs'"
   },
   "repository": {
     "type": "git",
