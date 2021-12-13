@@ -1,0 +1,462 @@
+{
+  "version": 1,
+  "name": "Waka Kotahi Research Papers",
+  "description": "Graph of research themes, topics, papers and authors",
+  "proxyImages": true,
+  "defaultMap": "map-5ZC75mIz",
+  "defaultPerspective": null,
+  "attributeRelevance": {},
+  "attributes": [
+    {
+      "_id": "attr-wTbE5Dmb",
+      "name": "Connection Type",
+      "format": "string",
+      "private": false,
+      "limit": 1,
+      "category": "General",
+      "prompt": "list",
+      "locked": false,
+      "values": [
+        "Same",
+        "Opposite",
+        "+",
+        "-",
+        "++",
+        "+-",
+        "-+",
+        "--"
+      ],
+      "sort": false,
+      "cluster": false
+    },
+    {
+      "_id": "attr-HiDkrR8o",
+      "name": "Description",
+      "format": "text",
+      "private": false,
+      "limit": 1,
+      "category": "General",
+      "prompt": "none",
+      "locked": false,
+      "values": [],
+      "sort": false,
+      "cluster": false
+    },
+    {
+      "_id": "attr-uwDrJSOR",
+      "name": "Element Type",
+      "format": "string",
+      "private": false,
+      "limit": 1,
+      "category": "General",
+      "prompt": "list",
+      "locked": false,
+      "values": [],
+      "sort": false,
+      "cluster": true
+    },
+    {
+      "_id": "attr-UKmolpUN",
+      "name": "Label",
+      "format": "string",
+      "private": false,
+      "limit": 1,
+      "category": "General",
+      "prompt": "autocomplete",
+      "locked": false,
+      "values": [],
+      "sort": false,
+      "cluster": false
+    },
+    {
+      "_id": "attr-zoCn2lIC",
+      "name": "Loop Type",
+      "format": "string",
+      "private": false,
+      "limit": 1,
+      "category": "General",
+      "prompt": "list",
+      "locked": false,
+      "values": [
+        "Reinforcing",
+        "Balancing",
+        "Vicious",
+        "Virtuous",
+        "Stabilizing",
+        "Stagnating"
+      ],
+      "sort": false,
+      "cluster": false
+    },
+    {
+      "_id": "attr-Z3a9Pglg",
+      "name": "Tags",
+      "format": "string",
+      "private": false,
+      "limit": "none",
+      "category": "General",
+      "prompt": "autocomplete",
+      "locked": false,
+      "values": [],
+      "sort": false,
+      "cluster": true
+    }
+  ],
+  "elements": [
+    {
+      "_id": "elem-F9dp5s18",
+      "attributes": {
+        "label": "Research topics"
+      }
+    },
+    {
+      "_id": "elem-vKIU2lwI",
+      "attributes": {
+        "label": "Safety"
+      }
+    },
+    {
+      "_id": "elem-KRz9skUw",
+      "attributes": {
+        "label": "Friction"
+      }
+    },
+    {
+      "_id": "elem-4jisLPo2",
+      "attributes": {
+        "label": "skid resistance"
+      }
+    },
+    {
+      "_id": "elem-hyUAyzPB",
+      "attributes": {
+        "label": "Friction and Tyre Abrasion Characteristics of New Zealand Road Surfaces"
+      }
+    },
+    {
+      "_id": "elem-9zKoeo9j",
+      "attributes": {
+        "label": "The effect of road roughness (and test speed) on GripTester measurements"
+      }
+    },
+    {
+      "_id": "elem-rUANBLnX",
+      "attributes": {
+        "label": "Drivers’ understanding of temporary and permanent slippery road signage"
+      }
+    },
+    {
+      "_id": "elem-V6XV5BPs",
+      "attributes": {
+        "label": "The Influence of Binder Rise in Reducing Tyre-Road Friction"
+      }
+    },
+    {
+      "_id": "elem-ALC0R92n",
+      "attributes": {
+        "label": "The effect of road roughness (and test speed) on GripTester measurements"
+      }
+    }
+  ],
+  "connections": [
+    {
+      "_id": "conn-47kXmzOH",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {
+        "label": "Is one of the"
+      },
+      "from": "elem-vKIU2lwI",
+      "to": "elem-F9dp5s18"
+    },
+    {
+      "_id": "conn-bSWzceD7",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {
+        "label": "is a keyword of"
+      },
+      "from": "elem-4jisLPo2",
+      "to": "elem-vKIU2lwI"
+    },
+    {
+      "_id": "conn-eCMKXHpq",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {
+        "label": "is a keyword of"
+      },
+      "from": "elem-KRz9skUw",
+      "to": "elem-vKIU2lwI"
+    },
+    {
+      "_id": "conn-sw2DysjG",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {
+        "connection type": "Same",
+        "label": "is a synonym of"
+      },
+      "from": "elem-KRz9skUw",
+      "to": "elem-4jisLPo2"
+    },
+    {
+      "_id": "conn-V8Q9h4Ui",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {
+        "connection type": "Same",
+        "label": "is a synonym of"
+      },
+      "from": "elem-4jisLPo2",
+      "to": "elem-KRz9skUw"
+    },
+    {
+      "_id": "conn-Pb83QkOZ",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {
+        "label": "is a keyword of"
+      },
+      "from": "elem-KRz9skUw",
+      "to": "elem-hyUAyzPB"
+    },
+    {
+      "_id": "conn-e3lbHRiB",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {
+        "label": "is a keyword of"
+      },
+      "from": "elem-KRz9skUw",
+      "to": "elem-9zKoeo9j"
+    },
+    {
+      "_id": "conn-jKipZHPh",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {
+        "label": "is a keyword of"
+      },
+      "from": "elem-KRz9skUw",
+      "to": "elem-rUANBLnX"
+    },
+    {
+      "_id": "conn-J6XyUHc8",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {
+        "label": "is a keyword of"
+      },
+      "from": "elem-4jisLPo2",
+      "to": "elem-V6XV5BPs"
+    },
+    {
+      "_id": "conn-EaW5nUhW",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {
+        "label": "is a keyword of"
+      },
+      "from": "elem-4jisLPo2",
+      "to": "elem-ALC0R92n"
+    }
+  ],
+  "loops": [],
+  "maps": [
+    {
+      "_id": "map-5ZC75mIz",
+      "name": "Untitled map",
+      "description": "",
+      "scale": 1,
+      "center": {
+        "x": 0,
+        "y": 0
+      },
+      "defaultPerspective": "pers-PinTOha0",
+      "defaultElementBehavior": "fixed",
+      "defaultConnectionDirection": "directed",
+      "elements": [
+        {
+          "_id": "node-PgztBwpX",
+          "position": {
+            "x": -873.8322308988182,
+            "y": 540.1633048968525
+          },
+          "pinned": true,
+          "style": {
+            "color": "#82bbdb"
+          },
+          "element": "elem-F9dp5s18"
+        },
+        {
+          "_id": "node-jIeClLtR",
+          "position": {
+            "x": -690.0373307322653,
+            "y": 450.7972191555404
+          },
+          "pinned": true,
+          "style": {
+            "color": "#fd9c51"
+          },
+          "element": "elem-vKIU2lwI"
+        },
+        {
+          "_id": "node-YPQi7p9k",
+          "position": {
+            "x": -705.1270368433027,
+            "y": 228.73840240454905
+          },
+          "pinned": true,
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "element": "elem-KRz9skUw"
+        },
+        {
+          "_id": "node-5yrvIDC7",
+          "position": {
+            "x": -464.39065171154175,
+            "y": 257.06988289307907
+          },
+          "pinned": true,
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "element": "elem-4jisLPo2"
+        },
+        {
+          "_id": "node-Zy5fjkf0",
+          "position": {
+            "x": -1043.8172974524607,
+            "y": 142.21358839975105
+          },
+          "pinned": true,
+          "style": {
+            "color": "#aaa9d1"
+          },
+          "element": "elem-hyUAyzPB"
+        },
+        {
+          "_id": "node-Q2db1AdW",
+          "position": {
+            "x": -913.3407239110196,
+            "y": 29.12279314012526
+          },
+          "pinned": true,
+          "style": {
+            "color": "#aaa9d1"
+          },
+          "element": "elem-9zKoeo9j"
+        },
+        {
+          "_id": "node-gTmg7Et7",
+          "position": {
+            "x": -750.8634534599296,
+            "y": -30.917164211190496
+          },
+          "pinned": true,
+          "style": {
+            "color": "#aaa9d1"
+          },
+          "element": "elem-rUANBLnX"
+        },
+        {
+          "_id": "node-zoVhEoSJ",
+          "position": {
+            "x": -429.0046255344971,
+            "y": -21.528296380932233
+          },
+          "pinned": true,
+          "style": {
+            "color": "#aaa9d1"
+          },
+          "element": "elem-V6XV5BPs"
+        },
+        {
+          "_id": "node-6actuJoH",
+          "position": {
+            "x": -266.47124610861715,
+            "y": 69.5000288753772
+          },
+          "pinned": true,
+          "style": {
+            "color": "#aaa9d1"
+          },
+          "element": "elem-ALC0R92n"
+        }
+      ],
+      "connections": [
+        {
+          "_id": "edge-8PmRQ2Sf",
+          "style": {},
+          "connection": "conn-47kXmzOH"
+        },
+        {
+          "_id": "edge-Ou6Khnly",
+          "style": {},
+          "connection": "conn-bSWzceD7"
+        },
+        {
+          "_id": "edge-6vNbh9RN",
+          "style": {},
+          "connection": "conn-eCMKXHpq"
+        },
+        {
+          "_id": "edge-7rZeehVq",
+          "style": {},
+          "connection": "conn-sw2DysjG"
+        },
+        {
+          "_id": "edge-rFx2PQqj",
+          "style": {},
+          "connection": "conn-V8Q9h4Ui"
+        },
+        {
+          "_id": "edge-F61Qn2IW",
+          "style": {},
+          "connection": "conn-Pb83QkOZ"
+        },
+        {
+          "_id": "edge-gJFIxp8s",
+          "style": {},
+          "connection": "conn-e3lbHRiB"
+        },
+        {
+          "_id": "edge-k20MprA2",
+          "style": {},
+          "connection": "conn-jKipZHPh"
+        },
+        {
+          "_id": "edge-FOsthxxr",
+          "curvature": 0.3005490754885921,
+          "style": {},
+          "connection": "conn-J6XyUHc8"
+        },
+        {
+          "_id": "edge-I633tE37",
+          "style": {},
+          "connection": "conn-EaW5nUhW"
+        }
+      ],
+      "loops": []
+    }
+  ],
+  "perspectives": [
+    {
+      "_id": "pers-PinTOha0",
+      "name": "Untitled view",
+      "style": "@settings {\n  template: systems;\n}\n\n"
+    }
+  ]
+}
