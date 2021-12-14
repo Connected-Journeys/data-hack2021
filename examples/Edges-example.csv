@@ -1,0 +1,17 @@
+Source,Target,Type,Kind,Id,Label,timeset,Weight
+0,1,Directed,researched,0,,,1
+0,2,Directed,researched,1,,,1
+0,3,Directed,researched,2,,,1
+0,4,Directed,researched,3,,,1
+0,5,Directed,researched,4,,,1
+0,6,Directed,researched,5,,,1
+0,7,Directed,researched,6,,,1
+8,9,Directed,researched,7,,,1
+8,10,Directed,researched,8,,,1
+8,11,Directed,researched,9,,,1
+8,12,Directed,researched,10,,,1
+13,14,Directed,researched,11,,,1
+13,15,Directed,researched,12,,,1
+13,16,Directed,researched,13,,,1
+13,17,Directed,researched,14,,,1
+13,18,Directed,researched,15,,,1
