@@ -30,6 +30,9 @@ keywords_enriched <- keywords %>%
                                    .f = extract_keywords)) %>% 
   tidyr::unnest(cols = c(individual_keywords)) 
 
+keyword_paper_links <- keywords_enriched %>% 
+  select(report_note_number, individual_keywords, available_at)
+
 # create keyword pairs
 # quickest way to do this was using widyr package
 # but could re-write
@@ -47,10 +50,28 @@ keywords_pairs_graph <- tidygraph::as_tbl_graph(
   activate("nodes") %>% 
   mutate(community = as.factor(group_infomap()))
   
+communities_papers <- keywords_pairs_graph %>% 
+  activate("nodes") %>% 
+  as_tibble() %>% 
+  left_join(keyword_paper_links, by = c("name" = "individual_keywords"))
+
 
 # simple viz
 ggraph(keywords_pairs_graph, layout="fr") + 
   geom_edge_link() + 
   geom_node_point(aes(size = centrality_degree(), 
                       colour = community))
-                                                
+
+
+# export keyword nodes
+keywords_pairs_graph %>% 
+  activate("nodes") %>% 
+  as_tibble() %>%
+  write.csv(here::here("results", "keywords_nodes.csv"))
+
+# export keyword edges
+keywords_pairs_graph %>% 
+  activate("edges") %>% 
+  as_tibble() %>%
+  write.csv(here::here("results", "keywords_edges.csv"))
+  
