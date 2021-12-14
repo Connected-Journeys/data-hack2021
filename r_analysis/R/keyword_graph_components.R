@@ -77,8 +77,8 @@ ggraph(papers_pairs_graph, layout="fr") +
 papers_pairs_graph %>%
   activate("nodes") %>%
   as_tibble() %>%
-  rename(Id = name) %>%
-  write.csv(here::here("results", "papers_nodes.csv"))
+  mutate(Id = row_number()) %>% 
+  write.csv(here::here("results", "papers_nodes.csv"), row.names = FALSE)
 
 # export keyword edges
 papers_pairs_graph %>%
