@@ -1,6 +1,7 @@
 library(dplyr)
 library(tidyr)
 library(stringr)
+library(forcats)
 library(purrr)
 library(janitor)
 library(openxlsx)
@@ -13,6 +14,7 @@ library(here)
 
 # read data
 theme_tidy <- function(theme){
+  # get only the first word from theme field
     str_split(theme, pattern = " |,")[[1]][1]
 }
 
@@ -99,6 +101,7 @@ ggraph(papers_pairs_graph, layout="fr") +
   geom_node_point(aes(size = centrality_degree(), 
                       colour = community))
 
+
 # interactive viz
 nodes <- papers_pairs_graph %>%
   activate("nodes") %>%
@@ -131,6 +134,61 @@ papers_pairs_graph %>%
   rename(Source = from,
          Target = to) %>%
   write.csv(here::here("results", "safety_papers_edges.csv"))
+
+
+# Visualise paper ID sequence 
+get_paper_number <- function(id_to){
+  # extract paper number from ID string
+  try(
+    str_extract_all(id_to, "[0-9]+") %>%
+    first() %>%
+    as.numeric(), 
+    TRUE
+  )
+}
+
+
+every_nth = function(n) {
+  # plot every nth label
+  return(function(x) {x[c(TRUE, rep(FALSE, n - 1))]})
+}
+
+
+paper_index <- papers_pairs_graph %>% 
+  activate("nodes") %>% 
+  as_tibble() %>% 
+  mutate(id = row_number()) %>% 
+  select(id, name)
+
+
+edgelist_df <- papers_pairs_graph %>% 
+  activate("edges") %>% 
+  as_tibble() %>% 
+  left_join(paper_index, by = c("to" = "id")) %>% 
+  rename(id_to = name) %>% 
+  left_join(paper_index, by = c("from" = "id")) %>% 
+  rename(id_from = name) %>% 
+  mutate(paper_number_to = map(id_to, get_paper_number)) %>%
+  mutate(paper_number_from = map(id_from, get_paper_number)) %>% 
+  unnest(cols = c(paper_number_to, paper_number_from)) %>% 
+  arrange(paper_number_to, paper_number_from) %>%
+  mutate(id_to = fct_reorder(as.factor(id_to), paper_number_to), 
+         id_from = fct_reorder(as.factor(id_from), paper_number_from))
+
+                
+ggplot() +
+  geom_tile(data = edgelist_df,
+            aes(x = id_to, 
+                y = fct_rev(id_from),
+                fill = shared_keywords), 
+            show.legend = T) +
+  labs(x="To",y="From",title = "Heatmap") +
+  scale_x_discrete(breaks = every_nth(n = 5)) + 
+  scale_y_discrete(breaks = every_nth(n = 5)) + 
+  coord_fixed()+
+  theme_bw() + 
+  theme(axis.text.x = element_text(angle = 45, hjust = 1), 
+        axis.text.y = element_text(angle = 0, hjust = 1))
 
 
 #########
