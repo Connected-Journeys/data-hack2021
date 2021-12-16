@@ -1,0 +1,6036 @@
+new_label
+evacuation
+hazard
+lifeline
+resilience
+risk
+route
+vulnerability
+best practice
+cost–benefit analysi
+dynamic agglomeration
+dynamic clustering
+economic appraisal
+economic impact analysi
+transport intervention
+welfare impact
+bituman
+chipseal
+crumb rubber
+end-of-life tyres
+modification
+bike
+purchase support scheme
+mode shift
+incentive
+process evaluation
+greenhouse ga
+emission
+transport
+vehicle kilometres travelled
+measurement
+mode shift
+behavimy
+cycling
+latent dem
+method
+model
+walking
+transport
+mental health
+city
+quality of life
+tāngata whaiora
+bike
+e-scooter
+first/last mile
+micromobility
+mode share
+mode shift
+shared mobility
+sustainable transportation
+construction
+ecology
+environmental impact
+erosion control
+infrastructure
+noise
+planning
+resource consent
+resource management
+sediment control
+stormwater
+transport
+vibration
+behavimy
+policy response
+transport disruption
+transport system
+walkability
+pedestrian
+levels of service
+network
+criticality
+dependency
+infrastructure
+interdependency
+lifeline
+risk
+resilience
+transport
+cost–benefit analysi
+hazard
+resilience
+risk
+uncertainty
+transport
+wellbeing
+liveability
+equity
+new zeal
+actor map
+case study
+co-benefit
+congestion
+education
+electric vehicle
+emission
+enrolment scheme
+environment
+intervention logic
+intervention
+justice
+polouse
+rasmussen
+risk management framework
+road safety
+school
+system
+systems framework
+transport
+workplace
+youth crime
+acces
+level of service
+pedestrian design
+pedestrian planning
+safety
+walkability
+distributional impact
+equity
+mode shift
+new zeal
+social impact
+transport appraisal
+waka kotahi nz transport agency
+active transport
+behavimy
+covid-19
+pemic
+public transport
+recovery
+remote working
+covid-19
+work from home
+telework
+employer
+employee
+contingent valuation
+economic evaluation
+freight transport
+new zeal
+service frequency
+stated preference 
+transport investment
+transport reliability
+travel time
+value of reliability 
+value of time 
+willingness to pay 
+ambulance
+crash
+emergency
+impact
+post-crash
+rescue
+road
+victim
+attitude
+autonomous vehicle
+carsharing
+connected vehicle
+mobility as a service
+ridesharing
+developing legislation
+regulatory design
+regulatory failure
+regulatory tool
+transport safety
+behavimy
+cycling
+incentive
+mobility management
+parking
+public transport
+transport
+travel dem management
+walking
+active transport
+cycling
+infrastructure
+level of service
+household interview
+transport model
+travel behavimy
+exhaust emission
+fuel consumption
+pems testing
+real-world driving
+demerit point system
+deterrence
+licensing point system
+motorist behavimy
+penalty point system
+road rule compliance
+acoustic
+annoyance
+disturbance
+health
+sleep
+community
+new zeal
+nz transport agency
+noise
+road
+rail
+transport
+asphalt
+binder performance
+chipseal
+elasticity
+elastomer
+plastomer
+polymer modified binder
+polymer modified bituman
+polymer modified emulsion
+equity
+road pricing
+social distributional impact
+cost-benefit analysi
+destination management
+road infrastructure
+south isl new zeal
+visitor attraction
+tourism
+tourism flows model
+blading
+data collection
+dust
+grading
+gravel road
+performance management
+unsealed road
+asset condition
+freight
+freight indicator
+greenhouse gas
+human capital
+indicator
+multi-modal
+port performance
+resilience
+safety
+travel time reliability
+cost-benefit analysi
+destination management
+road infrastructure
+south isl new zeal
+tourism
+tourism flows model
+visitor attraction
+tourism
+travel route
+visitor satisfaction
+choice modelling
+non-market valuation
+reliability
+survey design
+value of statistical life
+value of time
+bass model
+consumer behavimy
+electric vehicle
+innovation
+mobility-as-a-service
+policy
+technology
+demographic
+peak car
+transport dem
+saturation
+technology
+vkt
+ambulance
+crash
+emergency
+impact
+post-crash
+rescue
+road
+victim
+channelised layout
+crash modifying factor
+crash prediction model
+left turn slip lane
+priority intersection
+right turn slip lane
+safety performance function
+seagull layout
+t-intersection
+distraction
+in-vehicle information system/s 
+intelligence speed assistance/adaptation 
+mobile phone
+nomadic device
+prevalence
+warning
+bus
+dem
+future
+internet
+remote
+transport
+measure
+performance
+predictability
+public transport
+reliability
+economic benefit
+environmental benefit
+environmental legislation
+values assessment
+economic
+future
+intelligent
+skill
+system
+transport
+asset management
+intelligent transport system
+network management
+real-time
+technology
+automation
+autonomous vehicles 
+concentration
+dispersal
+drone
+employment
+innovation
+l use
+online retail
+projection
+technology
+transportation
+urban area
+crash risk
+economic evaluation
+operating speed
+skid resistance investigatory level
+speed limit setting
+maintenance
+patch
+pothole
+chipseal
+horizontal stres
+surface wear
+transverse shear stres
+tyre-pavement contact stres
+asset management
+long-term pavement performance 
+road maintenance
+acceptable risk
+benchmarking
+health safety
+hswa
+nrss4
+rail
+reasonably practicable
+risk assessment
+risk management
+safety
+sfairp
+cost-benefit analysi
+decision support tool
+maintenance
+minor work
+operation
+causal inference
+cross-sectional regression
+difference-in-differences
+empirical baye
+ex-post analysi
+instrumental variables regression
+interrupted time series 
+panel regression
+propensity score matching 
+regression discontinuity 
+l use transport interaction 
+model
+scenario
+system dynamic
+vector autoregressive 
+compaction
+compaction effort
+compaction energy
+granular material
+laboratory compaction
+maximum dry density 
+optimal moisture content
+vibrating hammer
+vibrating table
+data model
+network model
+real-time operation
+resilience
+close-proximity method
+low-noise road surface
+asphalt
+tyre/road noise
+intelligent transport system
+monitoring framework
+performance monitoring transport network
+urban freight
+dissemination
+influence
+research use
+utilisation
+value
+bus
+ecology
+legislation
+long-tailed bat
+mystacina tuberculatum
+road
+short-tailed bat
+aggregate
+bound
+cement
+construction
+design
+emulsion
+foamed bituman
+foamed bituman
+guideline
+investigation
+lime
+lightly bound
+modified
+new zeal
+pavement
+stabilisation
+bike
+bike
+electrically power-assisted cycle 
+e-skateboard
+e-unicycle 
+hoverboard
+legislation
+low-powered vehicle 
+mobility scooter
+new zeal
+pedelec
+bike
+regulation
+segway
+self-balancing
+wheeled recreational device
+adaptive management
+real option
+uncertainty
+bayesian modelling
+charm method
+cross-hauling
+input-output analysi
+new zeal economy
+regional economic development
+world input-output database 
+regional trade
+delineation
+driver comfort
+field trial
+roadmarking
+rural road safety
+automated data collection
+chip los
+crack detection
+data quality
+ravelling
+scanning laser
+shoving
+accessibility
+connectivity
+impact
+network effect
+public transport benefit
+public transport network
+audio tactile profiled markings/roadmarking
+chipseal
+inverted-profile line marking
+maintenance
+noticeability
+raised-profile marking
+reseal
+rumble strip
+visibility
+decision support tool
+governance leadership
+infrastructure
+recovery
+redundancy
+resilience
+bus
+taxonomy
+transport
+cutting
+design
+earthquake
+guideline
+lslide
+seismic
+slope
+topographic amplification
+chipseal
+long-life seal
+ramm
+road maintenance
+seal life
+seal performance
+spray seal
+drainage
+ground penetrating radar
+laser scanner
+moisture
+monitoring
+water content
+integrated transport assessment
+l use development
+resource consent
+transport planning
+bus
+give way to bu
+public transport benefit
+yield to bu
+agglomeration
+computable general equilibrium model
+gross value added 
+imperfect competition benefit
+increased competition benefit
+job relocation benefit
+labour supply benefit
+methodology
+model
+new zeal
+productivity
+region
+scenario modelling
+spatial effect
+specialisation benefit
+transport
+wider economic benefits 
+comprehension
+design
+friction
+scrim
+signage
+slippery road surface 
+competency
+crash causation
+cycling participation
+cycling safety
+cycle skills training
+systems thinking
+benchmarking
+highway
+maintenance
+performance management
+econometric
+ex-post analysi
+regulation
+accelerated pavement testing 
+captif
+loading
+new zeal
+pavement
+pavement performance
+road
+road user charge
+thin-surfaced pavement
+traffic
+vehicle
+angle
+composite bridge
+channel
+historic
+material property
+nz transport agency
+nz transport agency bridge manual 3rd edition
+shear connector
+shear stud
+stard
+cultural heritage
+economic benefit
+historic heritage
+integrated assessment
+māori value
+mātauranga māorus
+corridor
+efficiency
+framework
+intersection
+network
+objective
+operation
+plan
+safety
+trade-off
+asset management
+forward work programme 
+surface distres
+treatment selection
+treatment selection algorithm
+adhesive failure
+calcined bauxite system
+cohesive failure
+delamination
+high friction surfacing system
+epoxy resin system
+polyurethane resin system
+tensile bond test
+attitude
+drugged driving
+incidence
+medication
+prevalence
+toxicology
+roadside air quality
+vehicle emissions trend
+change management
+driver error
+human error
+human factor
+rail
+resilience
+risk reduction
+signal passed at danger 
+spad intervention
+systems approach
+benefit
+economic
+event
+incident
+its
+monitor
+operations activity
+optimisation
+real-time
+traffic management
+traveller information
+crowdsourcing
+intelligent transportation system
+network efficiency
+real-time datum
+road report
+social medium
+travel time
+traveller information
+web application
+economic output
+one network road classification 
+productivity
+road controlling authorities 
+road productivity
+value added
+evaluation
+physical works procurement
+procurement policy
+professional services procurement
+purchaser organisation
+roading outcome
+dust pm10
+dust suppression
+health effect
+unsealed road
+bike
+improving road cycling safety
+low-volume rural road cycling
+new zeal trial of 2-1 lane layout
+rural cycling safety
+crash
+intersection
+road safety
+safety
+signalised intersection
+signal
+traffic light
+traffic signal
+urban intersection
+urban signal
+bitumen
+cohesive energy
+kerosene compatibility
+bitumen
+dem
+freight
+household travel
+model
+projection
+region
+scenario modelling
+transport
+case study
+coast
+contaminant
+copper
+estuary
+load reduction
+modelling
+receiving environment
+risk assessment
+river
+road runoff
+stormwater
+stream
+traffic
+vehicle emission
+zinc
+benefit
+cost
+economic
+incident detection
+intelligent transport system
+real-time passenger information system
+route guidance
+benchmarking
+new zeal
+nz transport agency
+rail safety indicator
+idle time
+mean speed
+real world
+speed
+travel time
+accident
+bu
+ferry
+mode
+multimodal
+new zeal
+public transport 
+risk
+safe system
+safer journey
+safety
+train
+transport
+travel
+barrier strike
+maintenance cost
+nuisance barrier strike
+strike rate
+chipseal
+chipseal cracking
+deterioration modelling
+fatigue cracking
+sprayed seal
+surface dressing
+asphalt
+bituman
+chipseal
+crumb rubber
+devulcanisation
+emulsification
+end-of-life tyres
+polymer modified binders 
+viscosity
+bridge
+construction
+creep shrinkage
+design
+earth pressure
+integral seismic
+soil-structure interaction
+thermal effect
+bitumen
+chipseal
+chipseal flushing
+deterioration modelling
+sprayed seal
+surface dressing
+cost–benefit
+cycling
+economic evaluation
+parking reallocation
+public transport
+road space
+shared space
+urban realm
+basecourse
+discrete element
+finite element 
+geocell
+geogrid
+geosynthetic
+gravel
+pavement
+repeated load triaxial 
+stabilisation
+crash
+lighting
+road lighting
+road
+rural
+safety
+stard
+best practice
+information channel
+commercial travel information need
+commuter information
+crowdsourcing
+focus group
+journey planning
+multimodal
+new zeal
+online survey
+public transport
+travel choice
+travel information
+value of injury
+value of statistical life 
+value of statistical life years 
+willingness to pay 
+equity
+small travel time saving
+travel time
+trip duration
+adolescent
+attitude
+car
+forecast
+future behavimy
+generation y
+millennial
+mobility
+mode
+multimodal
+new zeal
+pattern
+prediction
+projection
+public transport
+teenager
+transport
+travel
+trend
+vehicle
+young adult
+youth
+fuel
+speed
+speed choice
+survey
+travel time
+destination
+human scale
+link function
+measurement
+place function
+agglomeration
+gva
+imperfect competition benefit
+increased competition benefit
+job relocation benefit
+labour supply benefit
+methodology
+model
+new zeal
+productivity
+region
+scenario modelling
+transport
+wider economic benefit
+public transport service quality
+rating survey
+stated preference
+value of time
+willingness to pay
+accelerated pavement testing
+captif
+chipseal
+unbound pavement
+water
+public acceptance of reduced speed limit
+public education of safer speed
+reduced speed limit compliance
+safer speed
+speed limit
+speed survey
+appraisal
+new zeal
+park ride 
+public transport 
+bus
+bus
+bus
+bus
+project appraisal
+public transport
+risk management
+application rate
+bituman
+chipseal
+cohesive energy
+emulsion
+sprayseal
+geographic information system
+indicator
+intelligent transport system
+monitoring framework
+transport network performance monitoring
+adhesion
+chip seal
+durability
+epoxy modified bituman
+flushing
+behavimy
+bus
+corridor productivity
+cycling
+economic impact
+high occupancy vehicle
+level of service
+mode shift
+public transport
+special vehicle lane
+transit lane
+transport modelling
+urban arterial
+best practice
+detection
+driver survey
+international review
+mobile phone
+national review
+new zeal
+road pavement drainage
+road pavement maintenance
+unbound granular pavement
+modelling 
+predictability
+travel time
+bridge design
+geotechnical
+liquefaction analysi
+liquefaction mitigation
+seismic design
+transport
+car driver
+car passenger
+contingent valuation
+market research
+new zeal
+stated choice
+stated preference
+valuation
+value of time 
+willingnes-to-pay
+growth accounting
+index number formula
+input–output-based productivity indicator
+integrated data infrastructure
+malmquist index
+multifactor productivity
+bus
+technical change
+technical efficiency
+tornqvist index
+2+1 roadway
+economic evaluation
+its-assisted merge
+microsimulation modelling
+passing lane bcr
+passing lane length
+passing lane spacing
+s-paramic
+benefit
+cost
+information
+journey
+planning
+real-time
+system
+technology
+bridge
+design stard
+fatigue design
+heavy vehicle load
+live loading
+new zeal
+steel bridge
+weigh-in-motion
+criticality
+failure
+hazard
+infrastructure
+resilience
+risk
+transport
+vulnerability
+crash rate
+flow path length
+pond depth
+rut
+water film depth
+attitude
+behavimy
+countermeasure
+driving
+drug
+habit
+new zeal
+prevalence
+survey
+calcined bauxite
+coloured surfacing
+epoxy resin binder
+flexural beam test
+high-friction surface
+leutner shear bond strength tester
+pavement design
+polyurethane binder
+skid resistance
+specialist surfacing
+coastal shipping
+data collection
+freight
+intelligent transport system
+rail
+road transport
+survey
+weigh in motion
+acute tolerance
+alcohol
+cognitive performance
+driving
+driving simulator
+best practice
+commuter information
+crowdsourcing
+focus group
+journey planning
+multimodal
+new zeal
+online survey
+public transport
+travel choice
+travel information
+axle load
+bridge design load
+dynamic load allowance 
+load factor
+vehicle load
+weigh-in-motion 
+wheel load
+freight
+reliability
+research
+new zeal
+nz transport agency
+acces
+active travel
+cost-benefit analysi
+cycling
+egres
+integration
+public transport
+walking
+barrier
+computer simulation
+corrosion
+crash modelling
+flexible
+hazard
+height
+pc-crash
+roadside safety barrier
+semi-rigid
+severity
+w-beam
+wire rope
+location technology
+geographic information system
+global navigation satellite system
+global positioning system
+positioning
+econometric analysi
+road transport dem forecasting
+time series data analysi
+economic appraisal
+new zeal
+parameter value
+public transport
+bu
+cost-effective
+effective
+experience
+enhancement
+public transport
+value-for-money
+cycling
+economic impact
+parking
+public transport
+sustainable transport
+toolkit
+walking
+benchmarking
+failure risk
+performance monitoring
+roughnes
+rut index
+strength indices trend monitoring
+activity management
+data collection
+pavement condition rating
+surface distres
+visual condition survey
+ bunching
+bu
+bus
+operation
+new zeal
+patronage
+performance measure
+performance monitoring
+public transport
+punctuality
+real-time information
+reliability
+schedule
+timetable
+travel time
+valuation
+variability
+atp roadmarking
+motorcycle
+raised profile roadmarking
+road surface irregularity
+rumble strip
+scooter
+stability
+two-wheeled vehicle
+bridge
+composite
+concrete
+construction
+cost-effective
+design
+durability
+efficiency
+fabrication
+fatigue
+guide
+ladder deck
+life cycle
+multi-girder
+new zeal
+nz transport agency
+shear stud
+steel
+steel bridge development group
+sustainability
+vibration
+welding
+bus
+funding public transport
+optimal transport subsidy
+passenger transport
+public transport
+second-best pricing
+urban public transport
+condition management
+griptester
+road roughnes
+road safety
+skid resistance
+testing speed
+texture wavelength
+economic welfare
+indicator
+performance measurement
+adaptation
+advisory
+intelligent
+investigation
+isa
+new zeal
+nz transport agency
+research
+speed
+system
+trial
+dem
+model
+projection
+region
+scenario modelling
+transport
+vehicle
+auckl
+econometric
+elasticity
+forecasting
+hamilton
+new zeal
+panel
+patronage
+public transport
+tauranga
+wellington
+barrier
+clear zone
+computer simulation
+crash risk modelling
+flexible
+hazard
+kiwirap
+pc-crash
+rigid
+risk
+safe system
+semi-rigid
+severity
+air pollution
+air quality
+dispersion modelling
+nitrogen dioxide
+particulate matter
+state highway
+aggregate polishing
+contaminant
+macrotexture
+microtexture
+rainfall
+road safety
+seasonal variation
+skid resistance
+skid tester
+agglomeration economies 
+economic productivity
+public transport 
+economic
+policy
+transport
+urban form
+accessibility
+cycling
+gis
+indicator
+journey planning
+methodology
+modelling
+network
+new zeal
+public transport
+transport
+walking
+financing
+funding
+local government
+new zeal
+nz transport agency
+transport infrastructure
+value capture
+c-roundabout
+cyclist
+multi-lane roundabout
+safety
+new zeal
+nz transport agency
+crash prediction model
+new zeal
+regional factor
+road safety
+rural road
+age
+failure
+life
+maintenance cost
+pavement
+pavement design
+performance
+risk
+roughnes
+rut
+asphalt
+hotmix
+appraisal
+case study
+cost change
+economic appraisal
+effect
+environmental
+evaluation
+ex ante
+ex post
+forecasting
+health
+highway
+impact
+induced travel
+monitoring
+new zeal
+post construction audit
+post implementation review
+road
+safety
+social
+transport
+travel behavimy
+analytical model
+bat 
+bus
+bus
+hot lane
+hov lane
+passenger transport
+public transport
+special vehicle lane
+transit
+greenhouse ga
+road
+safe
+safety
+speed
+system
+time
+travel
+value
+fundamental frequency
+nzta bridge manual
+relative displacement
+seismic design
+spatially varying ground excitation
+aesthetic
+amenity
+biodiversity
+cost–benefit
+cultural heritage
+ecosystem service
+human experience
+lscape ecology
+natural heritage
+new zeal highway
+sustainability
+activity management
+bridge
+chloride
+concrete
+corrosion
+deterioration
+exposure classification
+precast
+prestressed
+pre-tensioned
+pretensioned 
+beam
+bridge
+capacity
+concrete
+design
+experimental
+high-strength
+limit
+new zeal
+nzs 3101
+shear
+compliance
+electronic monitoring
+enforcement
+fair competition
+heavy commercial vehicle
+intelligent transport system
+legal issue
+operational issue
+overloading
+prevention
+road damage
+road safety
+technical issue
+weigh in motion 
+cracking
+extreme traffic loading
+pavement deterioration model
+roughnes
+rutting
+structural number
+accelerated pavement testing
+captif
+cement
+foamed bituman
+lime
+modified pavement
+stabilised pavement
+co2 emission
+coastal shipping
+container tracking
+goods damage
+impact load
+intermodal transfer
+rail
+road transport
+assessment
+community
+corridor
+development
+district
+environment
+impact
+integration
+l use
+limited acces
+motorway
+planning
+public programme
+regional
+sensitivity road
+strategy
+traffic
+transportation
+urban form
+barrier
+bus
+new zeal
+opportunity
+transport cost
+export forestry
+export meat
+export wine
+innovation
+integrated freight logistic
+supply chain
+contaminant removal
+copper
+media filtration device
+particle size distribution
+road runoff
+stormwater treatment
+suspended solid
+zinc
+appraisal
+benefit
+cba
+change
+cost
+indexing
+parameter
+price
+real
+time
+transport
+unit
+age
+failure
+life
+maintenance cost
+new zeal
+pavement
+pavement design
+performance
+risk
+roughnes
+rut
+dataset
+geospatial
+integrated planning
+spatial information
+spatial planning
+transport planning
+ of congestion
+auckl
+new zeal
+speed-flow function
+ congestion
+crash model
+crash risk
+road condition
+road geometry
+roughnes
+rutting
+safety
+skid resistance
+texture
+australium
+bus
+elasticity
+headway
+new zeal
+off-peak
+patronage
+public transport 
+ramp-up
+service frequency
+service level
+active mode
+adaptation
+alternative mode
+behavimy
+choice
+christchurch
+dunedin
+fuel shortage
+mode
+new zeal
+oamaru
+public transport
+survey method
+travel
+travel adaptive capacity
+virtual reality
+construction vibration
+human annoyance
+measured vibration level
+prediction of vibration level
+structural damage
+accessibility
+case study
+fairlie
+new zeal
+nightcap
+ohai
+rural community
+rural transport
+social exclusion
+social impact
+transport accessibility
+traffic safety
+crash prediction model
+signalised intersection
+pedestrian cycle crash
+new zeal data collection
+heavy commercial vehicle
+heavy vehicle fleet
+light vehicle fleet
+fuel efficiency
+fleet management
+management
+new zeal
+safety
+transport productivity
+truck
+aging
+future dem
+household travel
+new zeal
+older person
+population
+road network
+road safety
+supergold card
+transport
+accident
+crash prediction modelling
+gap acceptance
+urban
+pilot study
+priority-controlled intersection
+economic
+investment
+l use
+productivity
+transformational
+transport
+audio tactile profiled roadmarking
+driver-response to roadmarking
+noise vibration from roadmarking
+road safety
+roadmarking
+rumble strip
+collective risk
+crash prediction model
+kiwirap
+out of context curf
+personal risk
+crash analysi
+cyclist
+intersection
+multi-lane roundabout
+new zeal
+pedestrian
+pedestrian facility
+roundabout
+safety
+sightlines to the right
+traffic signal
+turbo-roundabout
+urban area
+vertical deflection device
+zebra crossing
+activity management
+bridge
+criticality
+datum
+inspection
+monitoring
+risk
+car parking
+company car
+employer-provided car park
+fringe benefit tax
+travel plan
+work-related vehicle
+calibration
+deterrence function
+deviance
+geospatial
+gravity
+hierarchical generalised linear model
+matrix estimation
+mixed logit
+mvestm
+regression
+sparsity
+transport model
+trip distribution
+bu
+ model
+cost
+elasticity
+generalised cost
+new zeal
+performance
+public transport
+contingent valuation
+economic appraisal 
+market research
+new zeal
+non-use value
+option value
+public transport
+stated preference
+total economic value
+willingnes-to-pay
+in-service skid resistance
+macrotexture
+polished stone value 
+predictive modelling
+road aggregate
+road geometry
+commuting
+disutility
+ideal commute time
+travel time saving
+utility
+value of travel time saving
+attitude
+built environment
+central city
+density
+intensification
+neighbourhood preference
+new zeal
+public transport use
+residential self-selection
+travel behavimy
+travel pattern
+vkt
+walking
+household travel
+new zeal
+school travel
+segment
+travel behavimy
+travel survey
+trend
+trip chain
+trip complexity
+trip rate
+chip los
+cornering force
+high-stress curf
+scuffing
+85th percentile speed
+automatic number plate recognition 
+average speed
+crash reduction
+point-to-point 
+police infringement bureau 
+road policing
+speed compliance
+assignment
+coefficient of variation
+congestion index
+nz transport agency
+reliability
+route choice
+travel time
+variability
+aggregate
+basecourse
+captif
+fatigue
+beam fatigue testing
+modulu
+pavement design
+strain
+tensile strain criterium
+tensile strength
+bu
+carbon footprint
+construction
+contaminant
+environment
+freight transport
+ghg
+greenhouse gas
+lca
+life cycle assessment
+life cycle energy
+maintenance
+passenger transport
+rail
+road
+road run-off
+rolling stock
+vehicle
+basecourse
+life
+lightly bound
+pavement
+recycling
+stabilisation
+adhesion
+chipseal
+cohesion
+multigrade bituman
+penetration
+polymer-modified bituman
+viscosity.
+aggregate
+basecourse
+life
+pavement
+saturation
+unbound
+framework
+government
+guide
+iso 26000
+l transport
+new zeal
+public sector
+social responsibility
+stard
+transport
+air quality
+auckl
+bu
+car
+carbon monoxide
+christchurch
+commuting
+cycle
+new zeal
+particulate matter
+personal exposure
+pm1
+pm2.5
+pm10
+pollution
+train
+ultrafine particle
+walk
+geometric design guidance
+rate of rotation
+rollover crash
+rural road
+warp factor
+asphalt
+bitumen
+indirect tensile strength
+modulu
+asphalt
+pavement
+stiffnes
+texture
+alkali silica reaction
+bridge
+concrete aggregate
+concrete
+concrete durability
+concrete pile
+delayed ettringite formation
+new zeal
+precast concrete
+city centre
+database
+design hmy
+education
+industrial
+l use
+modes of travel
+new zeal
+parking dem
+recreation
+residential
+retail
+survey
+trend
+trip generation
+accessibility
+community street review
+correlation
+crossing
+level of service
+mathematical formula
+path length
+pedestrian
+pleasantnes
+predicting
+quality
+road crossing
+safety
+walkability
+walkable
+air quality
+environment
+modelling
+particulate matter
+pollution
+dissemination
+influence
+research
+use
+utilisation
+value
+barrier
+behavimy
+christchurch
+cycling
+infrastructure
+motivation
+imperfect competition benefit
+increased competition benefit
+job relocation benefit
+labmy
+supply benefit
+wider economic impact
+binder rise
+chipseal
+dynamic friction tester
+flushing
+locked-wheel braking
+mean profile depth
+new zeal
+skid resistance
+texture
+designation conditions for noise
+noise compliance
+noise measurement
+noise measurement error
+noise measurement modelling
+noise propagation
+noise variability
+road traffic noise
+aggregate los
+application
+binder
+bleeding
+chip
+chipseal
+climate
+flushing
+grade
+guideline
+new zeal
+performance
+road
+seal
+single-coat
+spray
+stone mosaic texture
+surface
+temperature
+two-coat
+viscosity
+auckl
+bu
+cost
+cycling
+integration
+l use
+legislation
+mode share
+new zeal
+parking
+policy
+public transport
+transport
+rail
+sylvia park
+walking
+friction
+psv test
+new zeal
+wehner schulze
+new zeal
+risk perception
+road delineation
+safety
+self-explaining road
+emission stard
+emission trend
+remote sensing
+vehicle emission
+delay
+pedestrian
+safety
+signalised intersection
+traffic signal
+cycling
+database
+l use
+public transport
+survey
+trip generation
+trip rate
+walking.
+active transport
+assessment
+cycling
+evaluation
+evidence
+home zone
+impact
+mode shift
+safety
+slow zone
+speed
+speed limit
+sustainable transport
+traffic calming
+traffic mode
+urban design
+walking
+crash modelling
+crash prediction
+point hazard
+roadside environment
+skid resistance
+rural two-lane road
+before after study
+delay
+directnes
+kea crossing
+pedestrian facility benefit
+pedestrian facility
+pedestrian perception
+safety
+signalised pedestrian crossing
+walking
+zebra crossing
+active transport
+cycling
+health benefit
+walking
+elasticity
+public transport dem forecasting
+time series data analysi
+abrasion resistance
+aggregate
+compaction
+durability
+electric arc furnace slag
+greywacke
+new zeal
+petrology
+asphalt
+psv
+specified criterium
+roads.
+cyclist
+design guideline
+road safety
+footpath
+injury
+non-motor vehicle
+pedestrian
+walking
+fourier transform
+long-term pavement performance
+new zeal
+nz transport agency
+wavelet analysi
+aggregate
+basecourse
+deformation
+granular design criterium
+pavement design
+performance
+repeated load triaxial
+rutting
+specifications for aggregate
+countdown timer
+new zeal
+proportion
+signalised pedestrian crossing
+statistical analysi
+aggregate
+basecourse
+deformation
+pavement design
+rut depth prediction
+unbound granular
+repeated load triaxial
+rutting
+specifications for aggregate
+affective
+bike
+cycling
+design
+new zeal
+policy
+practical
+short trip
+systems thinking
+travel
+urban
+utility
+accessibility
+community transport
+dem responsive transport
+flexible
+low density
+mobility
+public transport
+paratransit
+telebu
+chipseal
+moisture
+new zeal
+pavement failure
+pothole
+rutting
+waterproofing
+hazard
+road marking
+speed
+speed mitigation
+speed reduction
+transverse road marking
+assessment
+best practice
+development
+development threshold
+district plan
+environment
+guideline
+ita
+planning guideline
+practice note
+resource consent
+site development
+sustainability
+traffic
+traffic impact
+traffic impact assessment
+transport
+transport assessment
+transport impact
+trip distribution
+trip generation
+trip rate
+age
+failure
+life
+maintenance cost
+new zeal
+pavement
+pavement design
+performance
+risk
+roughnes
+rut
+cycle
+education
+enforcement
+engineering
+pedestrian
+school
+school bu
+system
+transport
+dem-responsive transport
+l use/transport integration
+non-metropolitan region
+public transport
+shared transport
+bike
+bicycling
+bike
+bike
+bike
+bu
+cycling
+dem
+economic
+locker
+multimodal
+new zeal
+parking
+public transport
+rail
+rack
+transit
+transportation
+accessibility
+audit
+best practice
+bu
+guide
+new zeal
+public transport
+rail
+regional council
+report card
+train
+whole of journey
+abutment
+acceleration approach
+displacement
+dynamic load
+profile variance
+roughnes
+activity management
+assurance
+case
+framework
+government
+local
+management
+network
+risk
+roading
+study
+transport
+bike
+bike
+bike
+bike
+bike
+cycle fleet
+cycle skill
+cycling
+commuting new zeal
+workplace
+distribution
+four stage
+freight
+gravity model
+household travel survey
+inter-urban
+model
+mode split
+national
+new zeal
+passenger
+regional
+tourism
+transport
+trip end
+trip generation
+zone
+asphalt
+bituman
+durability
+accelerated pavement testing
+compaction
+finite element modelling
+granular basecourse
+rutting
+durability
+epoxy-modified bituman
+asphalt
+benchmarking
+cdem act 2002
+emergency management
+road controlling authority
+bus
+child
+road safety
+school bu
+speed sign
+driver behavimy
+guideline
+new zeal
+speed estimation model
+temporary speed limit
+work zone speed
+alternative material
+benefit
+carbon dioxide
+cost
+emission
+energy
+pavement
+recycling
+lighting
+pedestrian
+pedestrian safety
+personal security
+public space
+additive
+carbon dioxide
+emission
+energy
+environment
+financial cost
+asphalt
+hot mix
+rheology
+asphalt
+bridge activity management
+chloride-induced corrosion
+concrete
+concrete bridge
+corrosion
+preventive maintenance
+reinforcement corrosion
+silane
+siloxane
+surface treatment
+indicator
+integrated planning
+l use
+monitoring
+transport
+urban development
+falling weight deflectometer 
+pavement life
+pavement performance
+pavement strength
+snp
+structural capacity
+structural index
+structural number
+aggregate
+binder
+chipseal
+interlocking
+traffic
+evaluation
+kilometres travelled
+monitoring
+occupancy
+single-occupant vehicle
+survey
+travel plan
+vehicle-kilometres travelled
+auckl
+auxiliary lane
+congestion
+intersection design guide
+lane blockage
+lane utilisation
+new zeal
+sidra
+signalised intersection
+through-lane
+traffic signal
+under-utilisation
+intelligent transport system
+its
+its architecture
+nzta
+cost recovery
+mode share
+network planning
+non-work trip
+public transport
+transfer
+contaminant
+copper
+load-reduction factors 
+road runoff
+total petroleum hydrocarbons 
+treatment efficiency
+vehicle emission factors 
+zinc
+car
+forecasting
+ownership 
+economic costs benefit
+externality
+transport operating cost
+urban transport 
+bcr
+benefit
+cashflow
+cost benefit
+cost
+discount rate
+evaluation
+l transport investment
+new zeal
+transport
+alternative fuel
+emission
+fuel efficiency
+ghg
+greenhouse ga
+light vehicle
+chipseal
+moisture
+new zeal
+pavement failure
+pothole
+rutting
+waterproofing
+bike
+crash prediction model
+crash
+cycle facility
+cyclist
+modelling
+new zeal
+path
+prediction
+reporting rate
+road
+track
+asphalt
+cement
+coal tar
+contaminant
+copper
+foamed bituman
+immobilisation
+leaching
+metal
+mobilisation
+pah
+recycling
+road
+seal
+stabilisation
+toxicity
+benchmarking
+performance measure
+performance stard
+accident
+accident
+crash
+cyclist
+modelling
+new zeal
+pedestrian
+prediction
+roundabout
+sight distance
+speed
+visibility
+measurement
+monitoring
+projection
+public transport
+regional target
+single occupancy vehicle
+transport target
+travel dem management
+walking cycling trip
+captif
+contact stress
+full-scale testing
+numerical modelling
+pavement performance
+pavement response
+rutting
+thin pavement
+tyre contact patch
+tyre scuffing
+qo
+reflection property
+road lighting
+road surface
+r-table
+s1
+braking distance
+calcium magnesium acetate 
+frost
+ice
+locked-wheel braking
+risk analysi
+skid resistance
+traffic level
+falling weight deflectometer
+fwd
+austroads design
+unbound granular
+active transport
+cycling
+physical activity
+safety
+school
+travel
+case study
+integration
+implementation
+l use
+new zeal
+project
+transport
+climate change
+coastal shipping
+erosion
+flooding
+l transport
+natural hazard
+new zeal
+port
+rail
+rainfall
+risk
+road
+sea level rise
+temperature
+weather
+wind
+climate change
+coastal shipping
+erosion
+flooding
+gap analysi
+l transport
+legislation
+natural hazard
+network
+new zeal
+policy
+port
+questionnaire
+rail
+rainfall
+research
+risk
+road
+sea level rise
+temperature
+vulnerability
+weather
+wind
+drink-driving
+enforcement
+new zeal polouse
+rural community
+southern police district
+agglomeration
+productivity
+health impact assessment
+hia
+impact assessment
+new zeal
+sustainability
+transport planning
+trip rate
+parking rate
+trip
+parking
+trics
+tdb
+database
+travel mode
+l use
+retail
+residential
+household travel
+new zeal
+round trip
+school travel
+segment
+shopping
+tmy
+transport indicator
+travel behavimy
+travel survey
+trend
+trip chain
+aggregate
+bituman
+chipseal
+fine
+flushing
+spray rate
+accident
+crash
+curf
+geometry
+new zeal
+road curvature
+road design
+road geometry
+rural road
+speed
+funding
+l transport
+network infrastructure
+rail
+sustainability
+transport planning
+aged
+household travel
+new zeal
+older person
+travel behavimy
+travel survey
+trend
+dust
+life cycle
+ottum
+palliative
+performance
+seal
+suppression
+technique
+pavement deterioration model
+asphalt
+cracking
+ravelling
+asphalt
+ltpp
+asphalt
+arch
+corrugated
+culvert
+design
+earthquake
+flac
+large-span
+modelling
+new zeal
+numerical
+performance
+seismic
+steel
+audio tactile
+benefit
+centreline
+cost
+delineation
+edgeline
+line marking
+profiled
+road marking
+road safety
+rumble strip
+software
+precast concrete
+bridge deck
+stard design for new zeal
+super t i beam
+hollow core
+acces
+accessibility planning
+mobility
+new zeal
+social inclusion
+best practice
+district plan
+l transport
+l use
+new zeal
+planning
+sustainability
+as 5100
+australian bridge design
+transit nz bridge manual
+binder
+chipseal
+cutback
+emulsion
+extraction
+property
+residual
+active mode
+active transport
+cost-benefit analysi
+cycling
+economic evaluation manual
+health
+health benefit
+walking
+new zeal
+aggregate los
+application
+binder
+bleeding
+chip
+chipseal
+climate
+flushing
+grade
+guideline
+new zeal
+performance
+road
+seal
+spg
+spray
+surface
+temperature
+viscosity
+oil price
+central government
+regional council
+local authority
+territorial authority
+light vehicle
+commercial vehicle
+forecast
+modelling
+elasticity
+new zeal
+transport planning
+travel dem management
+l use management
+parking
+minimum parking requirement
+direct efficient pricing
+road pricing
+infrastructure investment
+alternative mode
+public transport
+walking
+cycling
+behavimy
+travel plan
+car-share
+freight
+management
+road network maintenance
+surface improvement
+energy efficiency
+economic development
+transport strategy
+oil intensity
+uncertainty
+variability
+no key word
+activity management
+engineering lifeline
+natural hazard
+risk
+new zeal
+implementation
+integration
+l use
+new zeal
+planning
+regional
+sustainability
+transport
+annual
+average
+daily
+household
+mode
+new zeal
+personal
+purpose
+rural
+survey
+travel
+trip leg
+urban
+weekday
+weekend
+crossfall
+geometry
+gradient curvature
+pitch
+ride quality
+road profile variance
+roll
+roughnes
+yaw
+aggregate
+basecourse
+deformation
+glas
+glass cuttel
+performance
+recycled material
+repeated load triaxial
+rutting
+specifications for aggregate
+cost benefit
+domestic product
+economic development
+general equilibrium
+growth
+input-output
+investment
+luti
+multi criterium
+origin-destination
+regional production
+social
+transport
+cellphone
+conversation suppression
+driver distraction
+driving simulator
+passenger conversation
+deterioration modelling
+gravel los
+gravel road
+maintenance
+maintenance guideline
+shape factor
+unsealed road
+directional performance
+dual tyre
+lateral load transfer
+multi-axle group
+pavement scuffing
+self-steering axle
+tyre scrubbing
+tyre scuffing
+wide-single tyre
+congestion
+incident management
+intelligent transport system
+network reliability
+modelling
+paramic
+scats
+catch basin
+catchpit
+characterisation
+cleanfill
+contaminant
+copper
+debris
+disposal
+dust
+heavy metal
+lfill
+leachate
+leaching
+lead
+pah
+particulate
+petroleum
+polycyclic aromatic hydrocarbon
+recycling
+reuse
+road
+runoff
+sediment
+sump
+sweeping
+toxicity
+tph
+zinc
+bus
+bus
+new zeal
+public transport
+safety
+security
+survey
+train station
+train transport
+transport
+bituman
+chipseal
+classification
+ecotoxicity
+emulsion
+emulsifier
+environment
+erma
+new zeal
+testing
+toxicity
+countermeasure
+driver fatigue
+intervention
+basecourse
+design
+failure
+loading
+modelling
+new zeal
+pavement design
+pavement life
+pavement
+roughnes
+rutting
+aadt
+bike
+count
+cycle
+cycle count
+cycle facility
+cycle lane
+cycle path
+cycling
+dem estimation
+estimate
+l transport nz
+metrocount
+mwh
+new zeal
+off-road
+on-road
+path
+predict
+report
+sp-11
+traffic
+viastrada
+bu
+customer service
+delay
+evaluation
+new zeal
+public expectation
+public transport
+rail
+reliability
+survey
+time
+valuation
+active transport
+child
+cycle train
+cycling
+mode change
+new zeal school
+transport
+travel
+bridge design
+bridge
+concrete bridge
+corrosion
+deterioration
+gisborne
+new zeal
+prestressing corrosion
+reinforcement corrosion
+steel
+abrasion
+flushing
+griptester
+life cycle
+macrotexture
+microtexture
+polishing
+rejuvenation
+restoration technique
+resurfacing
+skid resistance
+water cutting
+aggregate
+deformation
+new zeal
+performance specification
+recycled material
+repeated load triaxial
+road surfacing
+rutting
+strain
+stres
+testing
+contamination
+environmental impact
+leaching
+recycling
+road construction
+secondary aggregate
+environment
+integration
+l use
+new zeal
+planning
+sustainability
+transport
+aggregate
+compaction
+dense graded aggregate
+grading integer
+rutting deformation
+total void
+australium
+bus
+carless day
+diesel
+econometric
+elasticity
+fuel
+gdp per capitum
+international fuel consumption
+modelling
+new zeal
+petrol
+price
+public transport
+rail service
+road
+traffic
+traffic analysi
+traffic modelling
+commercial vehicle
+export
+forecasting
+freight
+gravity model
+good
+heavy vehicle
+io
+import
+national freight model
+new zeal
+saturn
+region
+traffic flow
+car dependency
+pedestrian
+travel behavimy
+walking
+park ride
+p r
+public transport
+travel
+forecast
+model
+alternative
+usage
+international
+review
+objective
+datum
+assessment
+best practice
+development
+development threshold
+district plan
+guideline
+planning guideline
+resource consent
+site development sustainability
+traffic
+traffic impact
+traffic impact assessment
+transport
+transport assessment
+transport impact
+trip distribution
+trip generation
+trip rate
+asphalt
+bituminou
+noise
+noise spectra
+asphalt
+traffic noise
+road surface
+aggregate
+basecourse
+deformation
+grading
+particle size
+distribution
+performance specifications for aggregate
+permanent deformation
+recycled material
+repeated load triaxial
+rutting
+contact
+pavement performance
+psmc
+roughnes
+rutting
+curve speed
+safety
+delineation
+advisory speed
+signage
+road safety
+software
+delineation
+audio tactile
+road marking
+benefit
+cost
+epoxy bituman
+asphalt
+asphalt
+access control
+area licensing
+charging
+congestion
+distance-based
+electronic
+image-based
+italy
+london
+manual toll
+number plate
+road pricing
+road user charging
+singapore
+stockholm
+transponder
+urban form
+vehicle positioning
+captif
+failure
+hdm model
+ltpp
+model development
+new zeal
+pavement deterioration
+pavement failure
+pavement model
+pavement strength
+pavement
+rut progression
+rutting
+adesite
+aggregate
+analysi
+basalt
+cbr
+clay mineral
+durabind
+greywacke
+marginal aggregate
+modification
+proctor needle test
+road
+rock
+stabilisation
+treatment
+weathering
+air quality
+best practice
+emission
+environment
+intelligent transport system
+management
+model
+monitoring
+noise
+planning
+pm10
+policy
+policy
+simulation
+stard
+strategy
+strategy
+tool
+traffic
+transportation
+travel dem management
+auckl
+cbd
+commercial vehicle
+courier
+light /medium commercial vehicle
+lower hutt
+movement
+new zeal
+takapuna
+transport corridor
+transport modelling
+trip
+urban area
+visit
+wellington
+contaminant
+depositional environment
+geographic information system
+model
+pathway
+particulate
+pollutant load
+receptor
+risk assessment
+road runoff
+screening tool
+sensitive receiving environment
+source
+stormwater
+accident
+crash
+rural roads unsealed road
+bridge
+bridge toll
+modelling
+new zeal
+road
+tauranga
+toll modelling
+traffic
+traffic prediction
+analysi
+auckl
+before/after
+benefit/cost analysi
+crash analysi
+crash
+crash type
+flush median
+guideline
+median
+pedestrian refuge isl
+safety
+width
+energy
+urban form
+transport policy
+modelling
+curve
+delineation
+edgeline
+edgemarker
+new zeal
+ratio
+reflectivity
+region
+retroreflectivity
+roadmarking
+road safety
+statistical analysi
+asphalt
+crumbed rubber
+hot mix
+new zeal
+asphalt
+recycled rubber
+road
+trial
+assessment
+contamination
+environmental impact
+leaching
+material
+recycling
+road construction
+secondary aggregate
+stard
+testing
+accelerated pavement testing
+captif
+chipseal
+fatigue
+low noise surface
+noise
+ogpa
+asphalt
+pavement
+road
+surface
+thin surfaced pavement
+traffic
+traffic noise
+classification
+ecotoxicity
+environmental assessment
+hazardous substance
+leaching
+legislation
+new zeal
+road construction material
+recycling
+regulation
+testing
+toxicity
+water
+austroads
+basecourse
+design
+failure
+loading
+modelling
+new zeal
+pavement
+pavement design
+roughnes
+rut
+strain
+sub-base
+subgrade
+aggregate
+deformation
+performance specification
+recycled material
+repeated load triaxial
+rutting
+calibration
+crack initiation
+dtim
+hdm
+ltpp
+pavement performance
+road deterioration
+roughness model
+rutting
+surface texture
+arterial management
+bu
+crash prevention
+emergency
+environmental monitoring
+fleet management
+hazardous material
+incident detection
+information dissemination
+intelligent transport lane control
+message sign
+motorway management
+parking
+public transport
+rail crossing
+ramp
+ride share
+road geometry
+road weather
+routing
+rural highway
+safety screening
+signal control
+smart card
+speed enforcement
+toll collection
+traffic monitoring
+tunnel
+urban traffic
+use charge
+weight screening
+truck mounted attenuator 
+road safety
+traffic management
+traffic control
+traffic system
+copttm
+road network
+advance warning
+visual enhancement system
+recognition distance
+retroreflectivity
+strobe
+beacon
+perception-reaction
+incident
+new zeal
+road
+road hierarchy
+self-explaining road
+speed
+speed change
+speed maintenance
+traffic
+traffic calming
+traffic management
+l use
+new zeal
+noise
+planning
+road
+transport
+asphalt
+basecourse
+new zeal
+repeated
+load triaxial
+test
+road
+sub-base
+unsealed road
+analysi
+auckl
+benefit/cost analysi
+congestion
+efficiency
+intersection
+lane blockage
+lane use
+layout
+new zeal
+short lane
+traffic signal
+civil defence
+damage
+disruption
+economic cost
+emergency service
+lifeline
+management
+mitigation
+natural hazard
+new zeal
+performance
+performance criterium
+public response
+resilience
+risk
+risk management
+road
+road network
+social cost
+transportation
+wellington
+aggregate
+chipseal
+crushing
+macrotexture
+microtexture
+new zeal
+psv
+skid resistance
+road
+traffic
+action
+active transport
+contemplation
+cycling
+ethnicity
+gender
+maintenance
+mode change
+new zeal
+physical activity
+behavimy
+socio-psychological
+stages of change
+transport
+transtheoretical model
+travel
+vigorou
+walking
+braking distance
+british pendulum tester
+bpt
+calcium magnesium acetate
+cma
+frost
+griptester
+ice locked wheel braking
+skid resistance
+road
+traffic
+asphalt
+behavimy
+bituman
+calcined bauxite
+cape seal
+chipseal
+community annoyance
+noise generation component
+noise level
+road surface type
+slurry seal
+spectral content
+texture depth
+tonal difference
+traffic noise
+bituman
+chipseal
+durability
+oxidation
+pavement
+road
+testing
+chipseal
+digital image processing
+macrotexture
+information theory
+road
+road surface
+s circle test
+surface texture
+texture measurement
+accident
+crash
+cyclist
+modelling
+new zeal
+pedestrian
+prediction
+reporting rate
+road
+crash
+driver behavimy
+hazard
+new zeal
+risk
+accident
+road sign
+road
+traffic
+vehicle
+c-roundabout
+confirmed geometry
+cyclist
+crash statistic
+design
+curvature
+intersection
+maximum path radiu
+multi-lane roundabout
+new zeal
+road marking
+road
+roundabout
+safety
+tracking curf
+traffic
+congestion charging
+hot lane
+new zeal
+success factor
+toll road
+aquatic ecotoxicity
+bioaccumulation
+bioavailability
+bituman
+classification
+cutback bituman
+ecotoxicity
+environment
+hazardous substance
+kerosene
+new zeal
+adhesion
+binder
+bituman
+chipseal
+flushing
+new zeal
+rheological property
+road
+texture
+commodity
+emme/2
+freight
+freight matrix
+freight movement
+freight transport
+industry
+load
+matrix
+modelling
+new zeal
+rail
+road
+transport
+contaminant
+monitoring
+new zeal
+road
+road runoff
+stormwater contaminant
+traffic
+treatment wall
+accelerator pavement testing
+captif
+heavy vehicle
+load
+loading
+mass limit
+new zeal
+pavement
+pavement loading
+pavement performance
+pavement wear
+road
+road user charge
+surface texture
+thin-surfaced pavement
+traffic
+vehicle
+accelerator pavement testing
+captif
+heavy vehicle
+load
+loading
+mass limit
+new zeal
+pavement
+pavement loading
+pavement performance
+pavement wear
+road
+road user charge
+surface texture
+thin-surfaced pavement
+traffic
+vehicle
+accelerator pavement testing
+captif
+heavy vehicle
+load
+loading
+mass limit
+new zeal
+pavement
+pavement loading
+pavement performance
+pavement wear
+road
+road user charge
+surface texture
+thin-surfaced pavement
+traffic
+vehicle
+chipseal
+instability
+multiple chipseal
+pavement
+road
+seal layer
+shear
+new zeal
+pavement
+pavement condition
+pavement monitoring
+profilometer
+rut depth
+simulation
+straight-edge
+hazard
+new zeal
+risk management
+risk assessment
+road
+road closure
+state highway
+environment
+new zeal
+planning
+policy
+regional l transport strategy
+strategic environmental assessment
+transport
+walking
+cycling
+strategy
+strategic plan
+best practice
+transport
+vision objective
+policy
+new zeal
+child
+cycle
+cyclist
+force
+motorist
+need
+new zeal
+obstacle
+risk
+road
+road feature
+route
+safety factor
+test
+vehicle
+velocity
+catchment
+coastal
+debris control
+design flow
+hydrology
+new zeal
+residential zone
+road
+rural zone
+transport
+urban
+urbanisation
+bu
+calming
+car
+cyclist
+device
+education
+engineering
+environment
+footpath
+geometry
+intersection
+inventory
+legislation
+methodology
+mode
+parking
+passenger
+pedestrian
+risk
+safety
+safety programme
+schoolchild
+security
+speed
+student
+road
+topography
+train
+traffic
+transport
+travel
+volume
+warning
+zone
+economic
+modelling
+new zeal
+pricing
+road
+road tolling
+toll scheme
+traffic
+urban area
+household travel
+new zeal
+round trip
+school travel
+segment
+tmy
+travel behavimy
+trip chain
+arterial
+activity management system
+a-train
+b-train
+commercial
+equivalent stard axle
+fringe
+heavy commercial vehicle
+industrial
+light commercial vehicle
+medium commercial vehicle
+residential
+rural
+strategic
+temporary classifier
+urban
+weigh-in-motion
+asphalt
+durability
+age
+cantabro test
+fretting
+abrasion
+stormwater treatment
+cost-benefit
+contingent valuation
+contaminant load
+contaminant reduction
+annual run-off volume
+suspended solid
+petroleum hydrocarbon
+crash risk
+vehicle performance
+cross-sectional geometry
+safety
+employee
+employer
+new zeal
+planning
+public transport
+staff
+transport
+travel dem management 
+travel plan
+travel survey
+environment
+assessment
+strategic
+impact
+transport
+policy
+planning
+new zeal
+compliance
+design
+drainage
+environment
+erosion
+flooding
+hydrology
+legislation
+maintenance
+management
+mitigation
+monitoring
+new zeal
+resource consent
+resource management act
+run-off
+sedimentation
+stormwater
+austroad
+circly
+database
+design
+hdm iii
+modelling
+new zeal
+pavement
+pavement design
+performance
+road
+bituman
+cbr
+cement
+compaction water content
+fatigue behavimy
+foam
+foam mize
+foamed bituman
+fracture energy
+gradation curf
+mixing water content
+pavement
+performance
+resilient modulu
+road
+stabilisation
+water content
+conflict
+design
+pedestrian
+road
+safety
+shared space
+street
+traffic
+traffic calming
+traffic planning
+vehicle
+woonerf
+aggregate polishing
+bitumen
+chipseal
+chipseal design
+contamination
+emergency braking
+macrotexture
+microtexture
+predictive model
+regression analysi
+skid resistance
+skid tester
+crash
+design
+driver behavimy
+lane design
+new zeal
+overtaking
+road
+accident
+road lane
+road marking
+traffic
+vehicle
+composition
+love wave
+new zeal
+p-wave
+pavement
+rayleigh wave
+road
+s-wave
+sasw
+seismic analysi
+strength
+surface wave
+diversionary effect
+incident condition
+normal condition
+peak time
+speed
+speed constraint
+speed change
+speed variability
+variable matory speed
+weather condition
+beam
+bridge
+concrete
+design
+new zeal
+precast
+span
+stard
+superstructure
+bridge
+cathodic protection
+chloride extraction
+concrete
+concrete repair
+corrosion
+cost
+extrochemical treatment
+new zeal
+patch repair
+reinforcement corrosion
+road
+traffic
+asphalt
+bituman
+cement
+compaction
+foam
+foamed bituman
+foam mix
+gradation curf
+mixing
+new zeal
+pavement
+performance
+road
+stabilisation
+water content
+condition rating
+trench reinstatement
+service cover
+pavement management
+reinstatement surface index
+roughnes
+sectioning
+predictive modelling
+dem
+elasticity
+fuel price
+new zeal
+parking charge
+passenger transport
+private transport
+public transport
+road
+service level
+toll charge
+traffic
+transport
+travel time
+vehicle operating cost
+chipseal
+inertial
+longitudinal
+new zeal
+profiler
+road
+roughnes
+rutting
+static
+tracking
+transverse
+validation
+bus
+car
+cycling
+marketing
+new zeal
+public transport
+road
+safety
+traffic
+transport mode
+walking
+rural highway
+two-lane
+simulation
+safety
+trarr
+twopas
+paramics
+ihsdm
+new zeal
+asphalt
+chipseal
+frost
+ice
+macrotexture
+microtexture
+new zeal
+pavement
+road
+road surface
+safety
+skid resistance
+surface
+surface texture
+texture
+traffic
+aimsun2
+modelling
+new zeal
+road
+safety
+traffic
+traffic control
+traffic model
+transyt11
+vissim
+visum
+rut depth
+profilometer
+straight-edge
+pavement condition
+pavement monitoring
+simulation
+behavimy
+evaluation
+modelling
+new zeal
+peak contraction
+peak spreading
+peak traffic
+road
+traffic
+behavimy
+bus
+economic
+education
+evaluation
+slow mode
+new zeal
+peak traffic
+private car
+public transport
+road
+school
+traffic
+travel
+construction
+design
+earthquake
+failure
+geosythetic
+guideline
+loading
+new zeal
+reinforcement
+road
+run-off
+stability
+strength
+structure
+drainage
+moisture
+new zeal
+pavement
+pavement design
+road
+soaked cbr
+subgrade sbr
+subgrade drainage
+subgrade moisture
+accessibility
+benefit
+evaluation
+mobility
+new zeal
+passenger transport
+public transport
+road
+traffic
+transport
+cost
+environment
+environmental benefit
+global consent
+highway maintenance
+new zeal
+regional plan
+region-wide consent
+resource consent
+resource management act
+road maintenance
+road
+bridge
+cathodic protection
+chloride extraction
+concrete
+concrete repair
+corrosion
+extrochemical treatment
+new zeal
+realkalisation
+reinforcement
+asphalt
+bituman
+long-life
+new zeal
+pavement
+road
+top-down cracking
+transport
+accident
+analysi
+auckl
+before after
+crash
+flush median
+median
+new zeal
+pedestrian isl
+road
+safety traffic
+aggregate
+asphalt
+bituman
+captif
+gyratory test
+marshall test
+mix
+new zeal
+pavement
+pavement design
+pavement mix
+road
+testing
+traffic
+accelerated pavement testing
+captif
+loading
+new zeal
+pavement
+pavement loading
+pavement performance
+road
+surface deformation
+surface texture
+thin-surfaced pavement
+texture
+traffic
+vehicle
+automatic
+bike
+christchurch
+count
+cycle
+cycling
+golden river
+metrocount
+new zeal
+off-road
+on-road
+pneumatic tube
+road
+rural
+traffic
+urban
+vehicle
+cost
+heavy vehicle
+new zeal
+road-friendly suspension
+suspension
+suspension testing
+toad
+testing
+traffic
+transport
+vehicle
+contaminant
+environment
+heavy metal
+inorganic compound
+modelling
+new zeal
+organic compound
+pah
+pavement
+pollution
+rainfall
+road
+runoff
+sampling
+traffic
+treatment
+water quality
+hdm-3
+hdm-4
+nz dtim
+calibration
+cracking
+edge
+break
+maintenance
+modelling
+new zeal
+pavement
+potholing
+ramm
+ravelling
+road
+roughnes
+rutting
+strength
+texture
+traffic
+horizontal curf
+rural highway
+advisory speed sign
+new zeal
+assessment
+coastline
+consent condition
+dust
+environment
+fish
+lscaping
+management
+mitigation
+new zeal
+noise
+pollution
+protection
+resource management act
+road
+sediment
+state highway
+stormwater
+topsoil
+vegetation
+weed
+wildlife
+assessment
+coastline
+consent condition
+dust
+environment
+fish
+lscaping
+management
+mitigation
+new zeal
+noise
+pollution
+protection
+resource management act
+road
+sediment
+state highway
+stormwater
+topsoil
+vegetation
+weed
+wildlife
+analysi
+auckl christchurch
+cost-effectivenes
+cost
+databasis
+elasticity
+evaluation
+monitoring
+new zeal
+patronage
+public transport
+road
+traffic
+travel mode
+wellington
+natural hazard
+new zeal
+roads risk
+ management
+policy
+analysi
+biodiversity
+databasis
+environment
+indigenous vegetation
+introduced vegetation
+native vegetation
+new zeal
+probability
+regression analysi
+road
+sampling
+spatial analysi
+statistical analysi
+vegetation
+waikato
+weed
+highway
+new zeal
+overtaking
+passing lane
+project evaluation
+road
+rural highway
+simulation
+slow vehicle bay
+traffic analysi
+traffic
+asphalt
+construction demolition waste
+impediment
+new zeal
+policy
+recycling
+specification
+analysi
+change point
+cucum method
+management
+new zeal
+normal scores transform
+pavement
+principal
+components analysi
+road
+statistical analysi
+treatment length
+segmentation
+natural hazard
+new zeal
+roads risk
+ management
+mitigation
+aggregate
+clay mineral
+marginal aggregate
+modification
+stabilisation
+road
+weathering
+abrasion
+aggregate
+blend
+chip
+m/21p specification
+new zeal
+polished stone value
+skid resistance
+accelerated pavement testing
+pavement
+repeat load tri-axial
+apparatu
+road
+traffic
+unbound granular material
+volcanic subgrade
+cbr
+fwd module
+in situ testing
+structural number
+condition rating
+data sensitivity
+treatment selection
+road
+roughnes
+statistic
+predictive modelling
+economic optimisation
+accident
+crash
+cycle injury
+cycle safety
+cycling
+new zeal
+road safety
+road
+survey
+traffic
+city centre
+design hmy
+l use
+new zeal
+parking dem
+residential
+retail
+surveys database
+trend
+trip generation
+city centre
+design hmy
+l use
+new zeal
+parking dem
+residential
+retail
+surveys database
+trend
+trip generation
+underslip stabilisation
+graded gravel column drain
+high pore water pressure
+inclinometer
+piezometer
+deep-seated road failure
+cost effectivenes
+snake hill
+sh1
+accelerated pavement testing
+captif
+loading
+new zeal
+pavement
+pavement performance
+road
+road user charge
+thin-surfaced pavement
+traffic
+vehicle
+damping ratio
+heavy vehicle suspension system
+natural frequency
+pavement wear
+road-friendly
+traffic count
+aadt
+traffic growth
+accuracy
+monitoring programme basi
+new zeal
+asphalt
+binder
+noise reduction
+permeability
+polymer-modified binder
+porosity
+asphalt
+road
+skid resistance
+traffic
+overtaking
+human factor
+driver behavimy
+driving simulator
+overtaking lane design
+traffic count
+electronic traffic datum
+aadt
+hierarchical cluster analysi
+new zeal
+cost-benefit analysi
+community
+environment
+evaluation
+road
+severance
+society
+traffic
+condition rating
+data quality
+databasis
+exception reporting
+ramm
+outlier
+pavement
+road
+roughnes
+statistic
+survey
+time series
+variability
+benkelman beam
+cbr
+californian bearing ration
+fwd
+falling weight deflectometer
+modulu
+new zeal
+pavement
+road
+strength
+structural number
+accelerated pavement testing
+pavement
+granular materials evaluation
+travel time valuation
+level of service
+environmental valuation
+stated preference
+stated choice
+conjoint analysi
+valuation method
+transport evaluation
+new zeal
+bridge
+bridge scmy
+bridge screening
+design
+failure
+flooding
+new zeal
+risk management
+river
+road
+scmy
+structure
+bitumen
+lime
+foam
+bituman
+unsealed road
+central otago
+new zeal
+construction
+design
+earthquake
+failure
+geosythetic
+loading
+new zeal
+reinforcement
+road
+run-off
+stability
+strength
+structure
+travel time saving
+transport
+evaluation
+state choice model
+new zeal
+accident
+economic evaluation
+prediction model
+test statistic
+rural urban
+intersection
+mid-block site
+bayesian method
+traffic growth
+forecasting
+project evaluation
+travel dem
+new zeal
+guideline
+new zeal
+noise
+residential area
+road
+traffic
+benefit-cost
+cost optimisation
+earthwork
+monte carlo simulation
+risk assessment
+slope instability
+technique
+stabilisation
+bituman
+thin surfacing
+bound material
+reflection cracking
+cementitious binder
+volcanic subgrade
+fwd
+subgrade strain
+deflection
+austroads
+rlt testing
+resilient modulu
+bridge
+bridge deck
+bridge superstructure
+deck joint
+new zeal
+road
+traffic
+design traffic loading
+commodity survey
+equivalent stard axles weigh-in-motion
+urban public transport
+user valuation
+journey attribute
+user benefit
+forecasting dem
+home interview
+household
+individual
+interview
+new zeal
+survey
+traffic
+travel
+bioenzyme
+clay modifier
+endurazyme #388
+new zeal
+pavement
+road
+stabilisation
+tararua district
+treatment
+unsealed road
+bridge scmy
+riprap
+protection
+hydraulic modelling
+abutment
+live bed
+mobile bed
+riprap apron
+cycle
+audit
+safety audit
+cycle review
+cycle review
+cycle audit
+road safety
+road controlling authority
+cycle advocate
+mode switching
+urban public transport
+traffic volume
+diversion rate
+adhesion
+aggregate
+bituman
+chipseal
+polymer
+modified binder
+road
+wetting
+road marking paint trial
+retroreflective measurement
+skid resistance
+test method
+test repeatability
+new zeal
+m/7 specification
+no key word
+bridge
+bridge dynamic
+bridge health
+bridge load
+heavy vehicle
+loading
+monitoring
+new zeal
+performance
+road
+superstructure
+traffic
+bridge
+bridge dynamic
+bridge health
+bridge load
+heavy vehicle
+loading
+monitoring
+new zeal
+performance
+road
+superstructure
+traffic
+bridge
+bridge dynamic
+bridge health
+bridge load
+heavy vehicle
+loading
+monitoring
+new zeal
+performance
+road
+superstructure
+traffic
+bridge
+bridge dynamic
+bridge health
+bridge load
+heavy vehicle
+loading
+monitoring
+new zeal
+performance
+road
+superstructure
+traffic
+bridge
+bridge dynamic
+bridge health
+bridge load
+heavy vehicle
+loading
+monitoring
+new zeal
+performance
+road
+superstructure
+traffic
+bridge
+bridge dynamic
+bridge health
+bridge load
+heavy vehicle
+loading
+monitoring
+new zeal
+performance
+road
+superstructure
+traffic
+bridge
+bridge dynamic
+bridge health
+bridge load
+heavy vehicle
+loading
+monitoring
+new zeal
+performance
+road
+superstructure
+traffic
+bridge
+bridge dynamic
+bridge health
+bridge load
+heavy vehicle
+loading
+monitoring
+new zeal
+performance
+road
+superstructure
+traffic
+bridge
+bridge dynamic
+bridge health
+bridge load
+heavy vehicle
+loading
+monitoring
+new zeal
+performance
+road
+superstructure
+traffic
+bridge
+bridge dynamic
+bridge health
+bridge load
+heavy vehicle
+loading
+monitoring
+new zeal
+performance
+road
+superstructure
+traffic
+contact pressure
+dynamic wheel load
+inflation
+pressure
+load
+new zeal
+pavement response
+pavement wear
+tyre
+wear
+wheel
+dynamic wheel load
+new zeal
+loading
+pavement
+pavement wear
+pavement response
+road
+tyre
+vehicle
+vehicle dynamic
+wheel
+binder
+bituman
+chip los
+chipseal
+emulsion
+new zeal
+pmb
+polymer
+road
+traffic
+forecasting
+modelling
+new zeal
+ownership
+road
+traffic
+vehicle
+road link
+road network
+reliability
+risk
+project evaluation
+assessment
+bituman
+chipseal
+durability
+new zeal
+quality assurance
+quality control
+road
+stard
+testing
+biodiversity
+conservation
+road reserve
+probability sampling
+pnap
+survey
+state highway 3
+geographic information system
+environmental domain
+l cover
+road management
+chipseal
+flushing
+water
+permeability
+new zeal
+road
+drainage
+geosynthetic
+new zeal
+pavement
+road
+bituman
+control
+instrumentation
+measurement
+new zeal
+refining
+road
+temperature-sensitivity
+testing
+trial
+dynamic wheel force
+pavement loading
+pavement management
+ride quality
+road profile
+road roughnes
+special analysi
+vehicle dynamic
+modelling
+wavelet analysi
+catchbasin
+contaminant
+device
+auckl
+new zeal
+pollution
+run-off
+road
+stormwater
+transport
+basecourse
+subgrade
+aggregate
+resilient mosulu
+permanent strain
+contract
+control
+instrumentation
+measurement
+profile beam
+road
+roughnes
+shape correction
+supervision
+testing
+bu
+matrix
+new zeal
+public transport
+transport
+trip
+rail
+wellington
+accident
+ashfall
+earthquake
+evaluation
+ice
+lahar
+mitigation
+modelling
+natural hazard
+new zeal
+risk
+risk assessment
+road
+road closure
+snow
+traffic
+volcanic event
+road network
+strategic network
+risk analysi
+network security
+lifeline
+travel disruption
+rural highway
+two-lane
+passing lane
+overtaking
+driver frustration
+safety
+simulation
+trarr
+project evaluation
+new zeal
+traffic
+parking
+parking restraint
+accelerated pavement testing
+captif
+dynamic wheel load
+pavement
+pavement wear
+road-friendlines
+road
+construction
+design
+engineering
+maintenance
+new zeal
+pavement
+performance
+research
+rehabilitation
+roading authority
+road
+survey
+basecourse
+captif
+loading
+new zeal
+pavement
+road
+sub-base
+subgrade
+trafficking
+crash rate
+economic assessment
+restoration technique
+skid resistance
+output based funding
+subsidised deregulation
+passenger transport
+contract
+british pendulum tester
+griptester
+normalisation
+predictor model
+seasonal variation
+skid resistance
+temperature correction
+valuation of travel time
+new zeal
+aging
+bituman
+chipseal
+durability
+field trial
+hardening
+new zeal
+pavement
+rheology
+road
+surfacing
+new zeal
+parking
+policy
+public transport
+road
+traffic
+transport
+urban
+urban transport
+assessment
+benefit
+benefit/cost
+cost optimisation
+geotechnology
+hazard
+instability
+maintenance
+monte carlo simulation
+new zeal
+probability
+risk
+road
+rockfall
+slope
+assessment
+benefit
+cost
+geotechnology
+hazard
+instability
+maintenance
+new zeal
+optimisation
+probability
+risk
+road
+basecourse
+cracking
+fibre
+fibre reinforcement
+new zeal
+pavement
+reinforcing
+road
+stabilisation
+testing
+construction
+environment
+erosion
+guideline
+maintenance
+management
+new zeal
+road
+road work
+sediment control
+sedimentation
+traffic
+water quality
+construction
+environment
+erosion
+guideline
+maintenance
+management
+new zeal
+road
+road work
+sediment control
+sedimentation
+traffic
+water quality
+construction
+environment
+erosion
+guideline
+maintenance
+management
+new zeal
+road
+road work
+sediment control
+sedimentation
+traffic
+water quality
+bridge
+concrete
+durability
+new zeal
+road
+state highway
+taranaki brown ash
+pavement design
+subgrade strain
+pavement deflection design
+cbr
+new zeal
+pavement
+pavement design
+road
+stabilisation
+subgrade
+testing
+triaxial test
+chipseal
+scabbing
+ravelling
+elastic modulu
+falling weight deflectometer
+fwd
+new zeal
+pavement
+pavement design
+road
+subgrade
+testing
+elastic modulu
+falling weight deflectometer
+fwd
+new zeal
+pavement
+pavement design
+road
+testing
+construction
+design
+geosynthetic
+geotextile
+grs
+new zeal
+reinforcing
+seismic behavimy
+soil structure
+static behavimy
+aging
+bituman
+chipseal
+compaction
+flushing
+new zeal
+road
+traffic
+viscosity
+environment
+modelling
+new zeal
+noise
+road
+traffic
+asphalt
+chipseal
+new zeal
+noise
+asphalt
+pavement
+permeability
+road
+surface
+skid resistance
+surface
+traffic
+aggregate
+alluvial aggregate
+crushing proces
+international friction index
+modelling
+pavement
+predictive model
+polished stone value
+road
+road texture
+skid resistance
+surface profile
+cost
+literature
+maintenance
+new zeal
+operator
+repair
+road condition
+user survey
+vehicle
+benkelman beam
+design
+fwd
+falling weight deflectometer
+non-destructive testing
+pavement
+pavement deflection
+pavement design
+rehabilitation design
+road
+testing
+lead paint removal
+risk assessment
+maintenance painting
+bridge
+lead paint removal
+risk assessment
+maintenance painting
+bridge
+lead paint removal
+risk assessment
+maintenance painting
+bridge
+lead paint removal
+risk assessment
+maintenance painting
+bridge
+aggregate
+bituman
+emulsion
+melter slag
+new zeal
+ogem
+overlay
+pavement
+road
+trial
+moisture
+new zeal
+pavement
+research
+road
+s circle
+texture depth
+transit new zeal stationary laser profilometer
+repeatability
+reproducibility
+alternative test
+wallpaper size
+cone penetration test
+cpt
+stard penetration test
+spt
+ dynamic consolidation
+earthquake
+liquefaction
+shear wave
+bus
+fare
+hamilton
+new zeal
+public transport
+road
+service
+survey
+transport
+wellington
+accident
+before after analysi
+benefit
+evaluation
+log-odds model
+median barrier
+modelling
+motorway
+multiplicative model
+regression model
+road
+safety
+sealed
+unsealed
+traffic speed
+public transport
+performance measure
+value for money
+austroads
+cemented
+design
+modified
+new zeal
+pavement design
+road
+soil-cement fatigue
+stabilisation
+subgrade
+new zeal
+road safety device
+road
+rumble strip
+safety
+warning
+aging
+asphalt
+bituman
+new zeal
+oil
+recycling
+road
+waste oil
+pavement temperature
+bituminous pavement
+pavement analysi
+pavement temperature record
+pavement density
+maximum dry density
+pavement
+bitumous emulsion
+chipsealing
+intangible
+traffic
+noise
+environment
+valuation
+severance
+barrier effect
+alpine
+biotum
+construction
+ecosystem
+environment
+fauna
+hydrology
+invertebrate
+l slip
+new zeal
+periphyton
+sediment
+river
+road
+daily traffic pattern
+classification
+counting strategy
+daily multiplier factor
+weekly multiplier factor
+suspension assessment
+road-friendlines
+pavement wear
+dynamic wheel load
+abrasion
+friction
+griptester
+new zeal
+pavement
+road texture
+tyre tread wear
+vehicle
+behavimy
+new zeal
+resource
+time
+travel
+valuation
+value
+communication
+highway
+information system
+new zeal
+road
+road information
+road sensor
+road weather
+safety
+skid resistance
+system
+traffic
+visibility
+weather
+management measurement
+naasra
+pavement management
+road
+roughnes
+roughness meter
+accident
+passing lane
+unsealed road
+new zeal
+flood
+river
+channel resistance
+flood frequency prediction
+assessment
+local authority road
+maintenance
+management
+new zeal
+pavement
+pavement management
+ramm
+road
+selection
+state highway
+treatment
+attitude
+new zeal
+market research
+perception
+road
+sealing
+tourism
+unsealed road
+user
+waipoua
+accident
+crash
+new zeal
+project evaluation
+road geometry
+severity
+speed
+instrument
+laser
+mean profile depth
+mpd
+measurement
+new zeal
+profile
+profilometer
+road
+road surface
+texture
+accelerometer
+bpas
+concrete block
+drive-by
+exterior noise
+interior noise
+new zeal
+noise
+1/2 octave
+paver
+pavement
+road
+road noise
+sound
+spectra
+spectral analysi
+vehicle
+bridge
+bridge scmy
+hydraulic design
+scour protection
+riprap
+road
+attitude
+discomfort
+new zeal
+market research
+perception
+risk
+road
+tourism
+sealing
+user
+social severance
+barrier effect
+impact assessment
+perceived danger
+crash risk
+geometry
+highway
+model
+ramm
+rgdas
+road
+tar
+bond
+bridge
+capacity design
+concrete
+earthquake
+new zeal
+plain bar
+reinforcing steel
+retrofitting
+seismic evaluation
+seismic testing
+structural engineering
+time-history analysi
+bridge
+capacity design
+earthquake
+new zeal
+retrofitting
+seismic evaluation
+structural engineering
+thorndon bridge
+design traffic
+austroads pavement design
+axle load
+axle configuration
+new zeal supplement
+bridge
+code
+manual
+road structure
+backfill
+bridge abutment
+bridge
+flowable material
+foamed concrete
+fly ash
+new zeal
+pavement
+polystyrene
+road
+trench
+tyre
+wood waste
+aggregate
+british pendulum tester
+chip
+friction
+grade
+new zeal
+pavement
+pendulum number
+repeatability
+reproducibility
+road
+sample
+skid resistance
+surface
+texture
+aggregate
+clay content
+construction
+cost
+economic analysi
+monitoring
+new zeal
+road
+roughnes
+testing
+unsealed
+chipsealing
+flux
+bituman
+bridge
+load
+dynamic
+impact
+new zeal
+highway
+accident
+conspicuity
+visibility
+safety garment
+road worker
+new zeal
+aggregate
+basecourse
+construction
+design
+new zeal
+pavement
+road
+shakedown
+specification
+sub-base
+subgrade
+unbound granular
+bituman
+bitumen
+bituminous mix
+fatigue
+fatigue life
+new zeal
+pavement
+pavement layer
+road
+charge
+evaluation
+ground penetrating radar
+gb geotechnic
+layer thicknes
+moisture
+non-destructive
+testing
+pavement
+radar
+service
+minimum performance level
+new zeal
+night-time visibility
+retroreflectivity
+retroreflectometer
+roadmarking
+visibility
+bituman
+cement
+lime
+new zeal
+pavement
+road
+stabilisation
+macrotexture
+measurement
+megatexture
+microtexture
+new zeal
+profilometer
+road
+road surface
+roughnes
+texture spectrum
+tyres. environment
+disposal
+road
+pavement
+bituman
+binder
+asphalt
+new zeal
+chipseal
+coastdown
+cost
+fuel
+fuel consumption
+macrotexture
+new zeal
+road/tyre interaction
+road
+rolling resistance
+surface texture
+texture
+torque
+tyre
+vehicle
+vehicle operation cost
+voc
+passing
+overtaking
+literature review
+activity management
+information system
+maintenance management
+pavement management
+ramm system
+road management
+assessment
+bridge
+earthquake
+highway
+road
+seismic
+new zeal
+l use
+new zeal
+parking
+parking dem
+survey
+traffic
+traffic survey
+trip generation
+urban
+use
+vehicle trip
+accident
+driver
+driver age
+driving
+driving behavimy
+gap acceptance
+new zeal
+older driver
+road
+rural
+t-intersection
+traffic
+accident
+construction
+economic
+eda
+forestry
+loading
+load
+logging
+maintenance
+new zeal
+pavement
+production
+road
+traffic
+trip
+database
+national
+national traffic database
+new zeal
+quality plan
+planning road
+road use
+traffic
+traffic flow
+traffic volume
+vehicle
+vehicle clas
+vehicle weight
+weight
+database
+national
+national traffic database
+new zeal
+quality plan
+planning road
+road use
+traffic
+traffic flow
+traffic volume
+vehicle
+vehicle clas
+vehicle weight
+weight
+database
+national
+national traffic database
+new zeal
+traffic
+traffic flow
+traffic volume
+vehicle
+vehicle clas
+vehicle weight
+weight
+literature
+new zeal
+ramm
+rating system
+review
+road
+unsealed road
+freeze-thaw
+frost action
+new zeal
+pavement
+pavement design
+road
+aging
+antioxidant
+autoxidation
+bituman
+chemistry
+hardening
+new zeal
+road
+bituman
+pavement
+bitumen
+rheometry
+road
+shear moduli
+torsional pendulum
+torsional braid analysi
+accident
+fatality
+fatality rate
+macroscopic
+modelling road
+safety
+traffic
+accident
+traffic safety
+traffic volume
+accident
+analysi
+cost
+project evaluation
+road
+improvement
+safety
+traffic
+clogging
+friction course
+new zeal
+pavement
+permeability
+porosity
+road
+void
+bu
+coach
+milford sound
+new zeal
+rental card
+road
+tourism
+traffic trend
+unsealed road
+freight transport
+heavy transport
+heavy vehicle
+new zeal
+road
+route
+transport
+vehicle
+fibre reinforcement
+new zeal
+road
+road base
+soil strength
+bond
+bridge
+concrete
+concrete bridge
+curing
+deck
+new zeal
+road
+strength
+alkali aggregate reaction
+beam
+bridge
+flexural strength
+hollow core beam
+new zeal
+prestressed concrete
+strength
+testing
+competition
+engineering
+evaluation
+procedure
+professional service
+roading
+selection
+christchurch
+hamilton
+north shore
+timaru
+whangarei
+new zeal
+accident
+accident
+accident
+analysi
+capacity
+cost
+intersection
+investigation
+link
+model
+regression
+road
+accident
+safety
+statistic
+time
+traffic
+transport
+volume
+bitumous emulsion
+borresperse ca
+dust
+dust palliative
+lignosulphonate
+new zeal
+road
+unsealed road
+waste oil
+weslig 120
+cost
+paved road
+pavement
+road
+sealed road
+transport
+unpaved road
+unsealed road
+vehicle operating cost
+public passenger transport procurement
+new zeal
+bu
+competitive tendering
+contracting
+procurement
+economic regulation
+databasis
+geographic information system
+information system
+information technology
+new zeal
+road
+rta
+spatial analysi
+spatial information system
+state highway
+vic roads
+bridge
+bridge management system
+brimms
+inspection
+maintenance
+management
+new zeal
+ponti
+road
+transport
+air-flow
+bca
+bituman
+flame shield
+flame tube
+fuel
+heating
+insulation
+temperature
+a-train
+acces
+b-train
+bu
+clearance
+coach facility
+forklift
+heavy vehicle
+manoeuvring
+rigid truck
+semi-trailer
+site design
+tracking curf
+truck
+a-train
+acces
+b-train
+bu
+clearance
+coach facility
+forklift
+heavy vehicle
+manoeuvring
+rigid truck
+semi-trailer
+site design
+tracking curf
+truck
+attitude
+market research
+new zeal
+road
+state highway
+user
+bridge
+impact
+impact factor
+mobile crane
+overload
+transporter
+overweight vehicle
+vehicle speed
+dynamic wheel force
+iri
+naasra roughnes
+pavement damage
+road
+road profile
+road roughnes
+roughnes
+modelling
+new zeal
+noise
+prediction
+roughnes
+traffic
+traffic flow
+uninterrupted flow
+bus
+competition
+contract
+deregulation
+new zeal
+passenger transport
+road transport
+tendering
+bridge
+computer program
+new zeal
+overload
+permit
+state highway
+traffic regulation
+no keyword
+taxi
+total mobility
+transport for disabled
+use survey
+capital cost
+estimate
+economic
+adhesion
+bituman
+chemical composition
+safaniya
+road
+asphalt
+bituman
+methly chloroform
+charging
+congestion
+cost
+environmental effect
+externality
+l transport
+pricing
+road
+road user
+charging
+environment
+environmental effect
+externality
+interference
+intrusion
+l transport
+l use
+non-market valuation
+pollution
+transport
+transport pricing
+transportation impact
+urban
+charging
+cost
+l transport
+pricing
+road
+road user
+aggregate
+pavement
+road
+accident
+agriculture
+clothing
+community
+dust
+economic disbenefit
+environment
+health
+horticulture
+housing
+insurance
+l value
+palliative
+person
+pollution
+road
+road surface
+tourism
+travel time
+unsealed road
+vehicle operating cost
+vehicle wear
+visibility
+electromagnetism
+electromagnetic loop
+feeder
+road
+traffic
+vehicle
+vehicle detection
+disability
+mobility
+total mobility scheme
+social service
+analysi
+evaluation sensitivity
+new zeal
+project evaluation
+uncertainty
+united kingdom
+community severance
+cultural impact
+cyclist
+ecology
+environment
+goal
+historical impact
+intangible
+intimidation
+litter
+pedestrian
+pollution
+project evaluation
+psychological stres
+quantification
+security
+special area
+traffic noise
+urban blight
+vibration
+visual impact
+water
+wind
+bituman
+bitumen
+construction
+emulsion
+maintenance
+pavement
+road
+new zeal
+accident
+countermeasure
+review
+new zeal
+literature
+bibliography
+calibration
+computer simulation
+netsim
+parameter sensitivity
+traffic modelling
+urban network
+validation
+benefit cost analysi
+capacity analysi
+computer package
+delay analysi
+economic evaluation
+netsum
+mulatm
+project evaluation
+traffic
+modelling
+urban network
+adult
+collision
+contributing factor
+count location
+cycle
+cycle flow
+cycle helmet
+cycle light
+cycle route
+cycle use
+cycle way
+cycling
+exposure rate
+medical
+ministry of transport
+questionnaire
+reflective clothing
+reflector
+student
+safety
+travel mode
+geotextile
+pavement
+road
+separation
+filtration
+reinforcement
+drainage
+fibre
+construction
+reflective
+cracking
+chip seal
+detector
+vehicle detector
+inductive loop
+inductive loop detector
+traffic
+traffic control
+road lighting
+accident
+survey
+method
+night lighting
+road
+luminance
+illunimance
+traffic
+noise
+prediction
+interrupted flow
+model
+road
+australium
+new zeal
+aggregate
+roading
+communication
+road aggregate
+road
+whanganui
+taranaki
+non-stard aggregate
+shell rock
+aggregate
