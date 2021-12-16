@@ -32,7 +32,7 @@ measurement
 mode shift
 behavimy
 cycling
-latent dem
+latent demand
 method
 model
 walking
@@ -87,7 +87,7 @@ transport
 wellbeing
 liveability
 equity
-new zeal
+new zealand
 actor map
 case study
 co-benefit
@@ -119,14 +119,14 @@ walkability
 distributional impact
 equity
 mode shift
-new zeal
+new zealand
 social impact
 transport appraisal
-waka kotahi nz transport agency
+nzta
 active transport
 behavimy
 covid-19
-pemic
+pandemic
 public transport
 recovery
 remote working
@@ -138,7 +138,7 @@ employee
 contingent valuation
 economic evaluation
 freight transport
-new zeal
+new zealand
 service frequency
 stated preference 
 transport investment
@@ -173,7 +173,7 @@ mobility management
 parking
 public transport
 transport
-travel dem management
+travel demand management
 walking
 active transport
 cycling
@@ -198,7 +198,7 @@ disturbance
 health
 sleep
 community
-new zeal
+new zealand
 nz transport agency
 noise
 road
@@ -219,7 +219,7 @@ social distributional impact
 cost-benefit analysi
 destination management
 road infrastructure
-south isl new zeal
+south island new zealand
 visitor attraction
 tourism
 tourism flows model
@@ -244,7 +244,7 @@ travel time reliability
 cost-benefit analysi
 destination management
 road infrastructure
-south isl new zeal
+south island new zealand
 tourism
 tourism flows model
 visitor attraction
@@ -266,7 +266,7 @@ policy
 technology
 demographic
 peak car
-transport dem
+transport demand
 saturation
 technology
 vkt
@@ -295,7 +295,7 @@ nomadic device
 prevalence
 warning
 bus
-dem
+demand
 future
 internet
 remote
@@ -327,7 +327,7 @@ dispersal
 drone
 employment
 innovation
-l use
+land use
 online retail
 projection
 technology
@@ -375,7 +375,7 @@ interrupted time series
 panel regression
 propensity score matching 
 regression discontinuity 
-l use transport interaction 
+land use transport interaction 
 model
 scenario
 system dynamic
@@ -426,7 +426,7 @@ investigation
 lime
 lightly bound
 modified
-new zeal
+new zealand
 pavement
 stabilisation
 bike
@@ -438,7 +438,7 @@ hoverboard
 legislation
 low-powered vehicle 
 mobility scooter
-new zeal
+new zealand
 pedelec
 bike
 regulation
@@ -452,7 +452,7 @@ bayesian modelling
 charm method
 cross-hauling
 input-output analysi
-new zeal economy
+new zealand economy
 regional economic development
 world input-output database 
 regional trade
@@ -496,7 +496,7 @@ cutting
 design
 earthquake
 guideline
-lslide
+landslide
 seismic
 slope
 topographic amplification
@@ -514,7 +514,7 @@ moisture
 monitoring
 water content
 integrated transport assessment
-l use development
+land use development
 resource consent
 transport planning
 bus
@@ -530,7 +530,7 @@ job relocation benefit
 labour supply benefit
 methodology
 model
-new zeal
+new zealand
 productivity
 region
 scenario modelling
@@ -560,7 +560,7 @@ regulation
 accelerated pavement testing 
 captif
 loading
-new zeal
+new zealand
 pavement
 pavement performance
 road
@@ -569,15 +569,15 @@ thin-surfaced pavement
 traffic
 vehicle
 angle
-composite bridge
+bridge
 channel
 historic
 material property
 nz transport agency
-nz transport agency bridge manual 3rd edition
+bridge
 shear connector
 shear stud
-stard
+standard
 cultural heritage
 economic benefit
 historic heritage
@@ -664,7 +664,7 @@ unsealed road
 bike
 improving road cycling safety
 low-volume rural road cycling
-new zeal trial of 2-1 lane layout
+new zealand trial of 2-1 lane layout
 rural cycling safety
 crash
 intersection
@@ -680,7 +680,7 @@ bitumen
 cohesive energy
 kerosene compatibility
 bitumen
-dem
+demand
 freight
 household travel
 model
@@ -712,7 +712,7 @@ intelligent transport system
 real-time passenger information system
 route guidance
 benchmarking
-new zeal
+new zealand
 nz transport agency
 rail safety indicator
 idle time
@@ -725,7 +725,7 @@ bu
 ferry
 mode
 multimodal
-new zeal
+new zealand
 public transport 
 risk
 safe system
@@ -791,7 +791,7 @@ road lighting
 road
 rural
 safety
-stard
+standard
 best practice
 information channel
 commercial travel information need
@@ -800,7 +800,7 @@ crowdsourcing
 focus group
 journey planning
 multimodal
-new zeal
+new zealand
 online survey
 public transport
 travel choice
@@ -823,7 +823,7 @@ millennial
 mobility
 mode
 multimodal
-new zeal
+new zealand
 pattern
 prediction
 projection
@@ -853,7 +853,7 @@ job relocation benefit
 labour supply benefit
 methodology
 model
-new zeal
+new zealand
 productivity
 region
 scenario modelling
@@ -876,7 +876,7 @@ safer speed
 speed limit
 speed survey
 appraisal
-new zeal
+new zealand
 park ride 
 public transport 
 bus
@@ -921,14 +921,14 @@ driver survey
 international review
 mobile phone
 national review
-new zeal
+new zealand
 road pavement drainage
 road pavement maintenance
 unbound granular pavement
 modelling 
 predictability
 travel time
-bridge design
+bridge
 geotechnical
 liquefaction analysi
 liquefaction mitigation
@@ -938,7 +938,7 @@ car driver
 car passenger
 contingent valuation
 market research
-new zeal
+new zealand
 stated choice
 stated preference
 valuation
@@ -971,12 +971,12 @@ real-time
 system
 technology
 bridge
-design stard
+design standard
 fatigue design
 heavy vehicle load
 live loading
-new zeal
-steel bridge
+new zealand
+bridge
 weigh-in-motion
 criticality
 failure
@@ -997,7 +997,7 @@ countermeasure
 driving
 drug
 habit
-new zeal
+new zealand
 prevalence
 survey
 calcined bauxite
@@ -1029,13 +1029,13 @@ crowdsourcing
 focus group
 journey planning
 multimodal
-new zeal
+new zealand
 online survey
 public transport
 travel choice
 travel information
 axle load
-bridge design load
+bridge
 dynamic load allowance 
 load factor
 vehicle load
@@ -1044,7 +1044,7 @@ wheel load
 freight
 reliability
 research
-new zeal
+new zealand
 nz transport agency
 acces
 active travel
@@ -1073,10 +1073,10 @@ global navigation satellite system
 global positioning system
 positioning
 econometric analysi
-road transport dem forecasting
+road transport demand forecasting
 time series data analysi
 economic appraisal
-new zeal
+new zealand
 parameter value
 public transport
 bu
@@ -1108,7 +1108,7 @@ visual condition survey
 bu
 bus
 operation
-new zeal
+new zealand
 patronage
 performance measure
 performance monitoring
@@ -1143,11 +1143,11 @@ guide
 ladder deck
 life cycle
 multi-girder
-new zeal
+new zealand
 nz transport agency
 shear stud
 steel
-steel bridge development group
+bridge
 sustainability
 vibration
 welding
@@ -1173,25 +1173,25 @@ advisory
 intelligent
 investigation
 isa
-new zeal
+new zealand
 nz transport agency
 research
 speed
 system
 trial
-dem
+demand
 model
 projection
 region
 scenario modelling
 transport
 vehicle
-auckl
+auckland
 econometric
 elasticity
 forecasting
 hamilton
-new zeal
+new zealand
 panel
 patronage
 public transport
@@ -1240,14 +1240,14 @@ journey planning
 methodology
 modelling
 network
-new zeal
+new zealand
 public transport
 transport
 walking
 financing
 funding
 local government
-new zeal
+new zealand
 nz transport agency
 transport infrastructure
 value capture
@@ -1255,10 +1255,10 @@ c-roundabout
 cyclist
 multi-lane roundabout
 safety
-new zeal
+new zealand
 nz transport agency
 crash prediction model
-new zeal
+new zealand
 regional factor
 road safety
 rural road
@@ -1289,7 +1289,7 @@ highway
 impact
 induced travel
 monitoring
-new zeal
+new zealand
 post construction audit
 post implementation review
 road
@@ -1317,7 +1317,7 @@ time
 travel
 value
 fundamental frequency
-nzta bridge manual
+bridge
 relative displacement
 seismic design
 spatially varying ground excitation
@@ -1328,9 +1328,9 @@ cost–benefit
 cultural heritage
 ecosystem service
 human experience
-lscape ecology
+landscape ecology
 natural heritage
-new zeal highway
+new zealand highway
 sustainability
 activity management
 bridge
@@ -1351,7 +1351,7 @@ design
 experimental
 high-strength
 limit
-new zeal
+new zealand
 nzs 3101
 shear
 compliance
@@ -1397,7 +1397,7 @@ district
 environment
 impact
 integration
-l use
+land use
 limited acces
 motorway
 planning
@@ -1410,7 +1410,7 @@ transportation
 urban form
 barrier
 bus
-new zeal
+new zealand
 opportunity
 transport cost
 export forestry
@@ -1443,7 +1443,7 @@ age
 failure
 life
 maintenance cost
-new zeal
+new zealand
 pavement
 pavement design
 performance
@@ -1457,8 +1457,8 @@ spatial information
 spatial planning
 transport planning
  of congestion
-auckl
-new zeal
+auckland
+new zealand
 speed-flow function
  congestion
 crash model
@@ -1474,7 +1474,7 @@ australium
 bus
 elasticity
 headway
-new zeal
+new zealand
 off-peak
 patronage
 public transport 
@@ -1490,7 +1490,7 @@ christchurch
 dunedin
 fuel shortage
 mode
-new zeal
+new zealand
 oamaru
 public transport
 survey method
@@ -1505,7 +1505,7 @@ structural damage
 accessibility
 case study
 fairlie
-new zeal
+new zealand
 nightcap
 ohai
 rural community
@@ -1517,21 +1517,21 @@ traffic safety
 crash prediction model
 signalised intersection
 pedestrian cycle crash
-new zeal data collection
+new zealand data collection
 heavy commercial vehicle
 heavy vehicle fleet
 light vehicle fleet
 fuel efficiency
 fleet management
 management
-new zeal
+new zealand
 safety
 transport productivity
 truck
 aging
-future dem
+future demand
 household travel
-new zeal
+new zealand
 older person
 population
 road network
@@ -1546,7 +1546,7 @@ pilot study
 priority-controlled intersection
 economic
 investment
-l use
+land use
 productivity
 transformational
 transport
@@ -1565,7 +1565,7 @@ crash analysi
 cyclist
 intersection
 multi-lane roundabout
-new zeal
+new zealand
 pedestrian
 pedestrian facility
 roundabout
@@ -1607,13 +1607,13 @@ bu
 cost
 elasticity
 generalised cost
-new zeal
+new zealand
 performance
 public transport
 contingent valuation
 economic appraisal 
 market research
-new zeal
+new zealand
 non-use value
 option value
 public transport
@@ -1638,7 +1638,7 @@ central city
 density
 intensification
 neighbourhood preference
-new zeal
+new zealand
 public transport use
 residential self-selection
 travel behavimy
@@ -1646,7 +1646,7 @@ travel pattern
 vkt
 walking
 household travel
-new zeal
+new zealand
 school travel
 segment
 travel behavimy
@@ -1726,21 +1726,21 @@ framework
 government
 guide
 iso 26000
-l transport
-new zeal
+land transport
+new zealand
 public sector
 social responsibility
-stard
+standard
 transport
 air quality
-auckl
+auckland
 bu
 car
 carbon monoxide
 christchurch
 commuting
 cycle
-new zeal
+new zealand
 particulate matter
 personal exposure
 pm1
@@ -1770,17 +1770,17 @@ concrete
 concrete durability
 concrete pile
 delayed ettringite formation
-new zeal
+new zealand
 precast concrete
 city centre
 database
 design hmy
 education
 industrial
-l use
+land use
 modes of travel
-new zeal
-parking dem
+new zealand
+parking demand
 recreation
 residential
 retail
@@ -1831,7 +1831,7 @@ dynamic friction tester
 flushing
 locked-wheel braking
 mean profile depth
-new zeal
+new zealand
 skid resistance
 texture
 designation conditions for noise
@@ -1852,7 +1852,7 @@ climate
 flushing
 grade
 guideline
-new zeal
+new zealand
 performance
 road
 seal
@@ -1863,15 +1863,15 @@ surface
 temperature
 two-coat
 viscosity
-auckl
+auckland
 bu
 cost
 cycling
 integration
-l use
+land use
 legislation
 mode share
-new zeal
+new zealand
 parking
 policy
 public transport
@@ -1881,14 +1881,14 @@ sylvia park
 walking
 friction
 psv test
-new zeal
+new zealand
 wehner schulze
-new zeal
+new zealand
 risk perception
 road delineation
 safety
 self-explaining road
-emission stard
+emission standard
 emission trend
 remote sensing
 vehicle emission
@@ -1899,7 +1899,7 @@ signalised intersection
 traffic signal
 cycling
 database
-l use
+land use
 public transport
 survey
 trip generation
@@ -1944,7 +1944,7 @@ cycling
 health benefit
 walking
 elasticity
-public transport dem forecasting
+public transport demand forecasting
 time series data analysi
 abrasion resistance
 aggregate
@@ -1952,7 +1952,7 @@ compaction
 durability
 electric arc furnace slag
 greywacke
-new zeal
+new zealand
 petrology
 asphalt
 psv
@@ -1968,7 +1968,7 @@ pedestrian
 walking
 fourier transform
 long-term pavement performance
-new zeal
+new zealand
 nz transport agency
 wavelet analysi
 aggregate
@@ -1981,7 +1981,7 @@ repeated load triaxial
 rutting
 specifications for aggregate
 countdown timer
-new zeal
+new zealand
 proportion
 signalised pedestrian crossing
 statistical analysi
@@ -1998,7 +1998,7 @@ affective
 bike
 cycling
 design
-new zeal
+new zealand
 policy
 practical
 short trip
@@ -2008,7 +2008,7 @@ urban
 utility
 accessibility
 community transport
-dem responsive transport
+demand responsive transport
 flexible
 low density
 mobility
@@ -2017,7 +2017,7 @@ paratransit
 telebu
 chipseal
 moisture
-new zeal
+new zealand
 pavement failure
 pothole
 rutting
@@ -2054,7 +2054,7 @@ age
 failure
 life
 maintenance cost
-new zeal
+new zealand
 pavement
 pavement design
 performance
@@ -2070,8 +2070,8 @@ school
 school bu
 system
 transport
-dem-responsive transport
-l use/transport integration
+demand-responsive transport
+land use/transport integration
 non-metropolitan region
 public transport
 shared transport
@@ -2082,11 +2082,11 @@ bike
 bike
 bu
 cycling
-dem
+demand
 economic
 locker
 multimodal
-new zeal
+new zealand
 parking
 public transport
 rail
@@ -2098,7 +2098,7 @@ audit
 best practice
 bu
 guide
-new zeal
+new zealand
 public transport
 rail
 regional council
@@ -2131,7 +2131,7 @@ bike
 cycle fleet
 cycle skill
 cycling
-commuting new zeal
+commuting new zealand
 workplace
 distribution
 four stage
@@ -2142,7 +2142,7 @@ inter-urban
 model
 mode split
 national
-new zeal
+new zealand
 passenger
 regional
 tourism
@@ -2172,7 +2172,7 @@ school bu
 speed sign
 driver behavimy
 guideline
-new zeal
+new zealand
 speed estimation model
 temporary speed limit
 work zone speed
@@ -2199,10 +2199,10 @@ asphalt
 hot mix
 rheology
 asphalt
-bridge activity management
+bridge
 chloride-induced corrosion
 concrete
-concrete bridge
+bridge
 corrosion
 preventive maintenance
 reinforcement corrosion
@@ -2211,7 +2211,7 @@ siloxane
 surface treatment
 indicator
 integrated planning
-l use
+land use
 monitoring
 transport
 urban development
@@ -2236,13 +2236,13 @@ single-occupant vehicle
 survey
 travel plan
 vehicle-kilometres travelled
-auckl
+auckland
 auxiliary lane
 congestion
 intersection design guide
 lane blockage
 lane utilisation
-new zeal
+new zealand
 sidra
 signalised intersection
 through-lane
@@ -2280,8 +2280,8 @@ cost benefit
 cost
 discount rate
 evaluation
-l transport investment
-new zeal
+land transport investment
+new zealand
 transport
 alternative fuel
 emission
@@ -2291,7 +2291,7 @@ greenhouse ga
 light vehicle
 chipseal
 moisture
-new zeal
+new zealand
 pavement failure
 pothole
 rutting
@@ -2302,7 +2302,7 @@ crash
 cycle facility
 cyclist
 modelling
-new zeal
+new zealand
 path
 prediction
 reporting rate
@@ -2326,13 +2326,13 @@ stabilisation
 toxicity
 benchmarking
 performance measure
-performance stard
+performance standard
 accident
 accident
 crash
 cyclist
 modelling
-new zeal
+new zealand
 pedestrian
 prediction
 roundabout
@@ -2346,7 +2346,7 @@ public transport
 regional target
 single occupancy vehicle
 transport target
-travel dem management
+travel demand management
 walking cycling trip
 captif
 contact stress
@@ -2385,17 +2385,17 @@ travel
 case study
 integration
 implementation
-l use
-new zeal
+land use
+new zealand
 project
 transport
 climate change
 coastal shipping
 erosion
 flooding
-l transport
+land transport
 natural hazard
-new zeal
+new zealand
 port
 rail
 rainfall
@@ -2410,11 +2410,11 @@ coastal shipping
 erosion
 flooding
 gap analysi
-l transport
+land transport
 legislation
 natural hazard
 network
-new zeal
+new zealand
 policy
 port
 questionnaire
@@ -2430,7 +2430,7 @@ weather
 wind
 drink-driving
 enforcement
-new zeal polouse
+new zealand polouse
 rural community
 southern police district
 agglomeration
@@ -2438,7 +2438,7 @@ productivity
 health impact assessment
 hia
 impact assessment
-new zeal
+new zealand
 sustainability
 transport planning
 trip rate
@@ -2449,11 +2449,11 @@ trics
 tdb
 database
 travel mode
-l use
+land use
 retail
 residential
 household travel
-new zeal
+new zealand
 round trip
 school travel
 segment
@@ -2474,21 +2474,21 @@ accident
 crash
 curf
 geometry
-new zeal
+new zealand
 road curvature
 road design
 road geometry
 rural road
 speed
 funding
-l transport
+land transport
 network infrastructure
 rail
 sustainability
 transport planning
 aged
 household travel
-new zeal
+new zealand
 older person
 travel behavimy
 travel survey
@@ -2516,7 +2516,7 @@ earthquake
 flac
 large-span
 modelling
-new zeal
+new zealand
 numerical
 performance
 seismic
@@ -2534,25 +2534,25 @@ road safety
 rumble strip
 software
 precast concrete
-bridge deck
-stard design for new zeal
+bridge
+standard design for new zealand
 super t i beam
 hollow core
 acces
 accessibility planning
 mobility
-new zeal
+new zealand
 social inclusion
 best practice
 district plan
-l transport
-l use
-new zeal
+land transport
+land use
+new zealand
 planning
 sustainability
 as 5100
-australian bridge design
-transit nz bridge manual
+bridge
+bridge
 binder
 chipseal
 cutback
@@ -2568,7 +2568,7 @@ economic evaluation manual
 health
 health benefit
 walking
-new zeal
+new zealand
 aggregate los
 application
 binder
@@ -2579,7 +2579,7 @@ climate
 flushing
 grade
 guideline
-new zeal
+new zealand
 performance
 road
 seal
@@ -2598,10 +2598,10 @@ commercial vehicle
 forecast
 modelling
 elasticity
-new zeal
+new zealand
 transport planning
-travel dem management
-l use management
+travel demand management
+land use management
 parking
 minimum parking requirement
 direct efficient pricing
@@ -2629,11 +2629,11 @@ activity management
 engineering lifeline
 natural hazard
 risk
-new zeal
+new zealand
 implementation
 integration
-l use
-new zeal
+land use
+new zealand
 planning
 regional
 sustainability
@@ -2643,7 +2643,7 @@ average
 daily
 household
 mode
-new zeal
+new zealand
 personal
 purpose
 rural
@@ -2723,7 +2723,7 @@ debris
 disposal
 dust
 heavy metal
-lfill
+landfill
 leachate
 leaching
 lead
@@ -2743,7 +2743,7 @@ tph
 zinc
 bus
 bus
-new zeal
+new zealand
 public transport
 safety
 security
@@ -2759,7 +2759,7 @@ emulsion
 emulsifier
 environment
 erma
-new zeal
+new zealand
 testing
 toxicity
 countermeasure
@@ -2770,7 +2770,7 @@ design
 failure
 loading
 modelling
-new zeal
+new zealand
 pavement design
 pavement life
 pavement
@@ -2785,12 +2785,12 @@ cycle facility
 cycle lane
 cycle path
 cycling
-dem estimation
+demand estimation
 estimate
-l transport nz
+land transport nz
 metrocount
 mwh
-new zeal
+new zealand
 off-road
 on-road
 path
@@ -2803,7 +2803,7 @@ bu
 customer service
 delay
 evaluation
-new zeal
+new zealand
 public expectation
 public transport
 rail
@@ -2816,16 +2816,16 @@ child
 cycle train
 cycling
 mode change
-new zeal school
+new zealand school
 transport
 travel
-bridge design
 bridge
-concrete bridge
+bridge
+bridge
 corrosion
 deterioration
 gisborne
-new zeal
+new zealand
 prestressing corrosion
 reinforcement corrosion
 steel
@@ -2843,7 +2843,7 @@ skid resistance
 water cutting
 aggregate
 deformation
-new zeal
+new zealand
 performance specification
 recycled material
 repeated load triaxial
@@ -2860,8 +2860,8 @@ road construction
 secondary aggregate
 environment
 integration
-l use
-new zeal
+land use
+new zealand
 planning
 sustainability
 transport
@@ -2881,7 +2881,7 @@ fuel
 gdp per capitum
 international fuel consumption
 modelling
-new zeal
+new zealand
 petrol
 price
 public transport
@@ -2900,7 +2900,7 @@ heavy vehicle
 io
 import
 national freight model
-new zeal
+new zealand
 saturn
 region
 traffic flow
@@ -2999,7 +2999,7 @@ failure
 hdm model
 ltpp
 model development
-new zeal
+new zealand
 pavement deterioration
 pavement failure
 pavement model
@@ -3037,21 +3037,21 @@ pm10
 policy
 policy
 simulation
-stard
+standard
 strategy
 strategy
 tool
 traffic
 transportation
-travel dem management
-auckl
+travel demand management
+auckland
 cbd
 commercial vehicle
 courier
 light /medium commercial vehicle
 lower hutt
 movement
-new zeal
+new zealand
 takapuna
 transport corridor
 transport modelling
@@ -3077,16 +3077,16 @@ accident
 crash
 rural roads unsealed road
 bridge
-bridge toll
+bridge
 modelling
-new zeal
+new zealand
 road
 tauranga
 toll modelling
 traffic
 traffic prediction
 analysi
-auckl
+auckland
 before/after
 benefit/cost analysi
 crash analysi
@@ -3095,7 +3095,7 @@ crash type
 flush median
 guideline
 median
-pedestrian refuge isl
+pedestrian refuge island
 safety
 width
 energy
@@ -3106,7 +3106,7 @@ curve
 delineation
 edgeline
 edgemarker
-new zeal
+new zealand
 ratio
 reflectivity
 region
@@ -3117,7 +3117,7 @@ statistical analysi
 asphalt
 crumbed rubber
 hot mix
-new zeal
+new zealand
 asphalt
 recycled rubber
 road
@@ -3130,7 +3130,7 @@ material
 recycling
 road construction
 secondary aggregate
-stard
+standard
 testing
 accelerated pavement testing
 captif
@@ -3152,7 +3152,7 @@ environmental assessment
 hazardous substance
 leaching
 legislation
-new zeal
+new zealand
 road construction material
 recycling
 regulation
@@ -3165,7 +3165,7 @@ design
 failure
 loading
 modelling
-new zeal
+new zealand
 pavement
 pavement design
 roughnes
@@ -3235,7 +3235,7 @@ strobe
 beacon
 perception-reaction
 incident
-new zeal
+new zealand
 road
 road hierarchy
 self-explaining road
@@ -3245,15 +3245,15 @@ speed maintenance
 traffic
 traffic calming
 traffic management
-l use
-new zeal
+land use
+new zealand
 noise
 planning
 road
 transport
 asphalt
 basecourse
-new zeal
+new zealand
 repeated
 load triaxial
 test
@@ -3261,7 +3261,7 @@ road
 sub-base
 unsealed road
 analysi
-auckl
+auckland
 benefit/cost analysi
 congestion
 efficiency
@@ -3269,7 +3269,7 @@ intersection
 lane blockage
 lane use
 layout
-new zeal
+new zealand
 short lane
 traffic signal
 civil defence
@@ -3281,7 +3281,7 @@ lifeline
 management
 mitigation
 natural hazard
-new zeal
+new zealand
 performance
 performance criterium
 public response
@@ -3298,7 +3298,7 @@ chipseal
 crushing
 macrotexture
 microtexture
-new zeal
+new zealand
 psv
 skid resistance
 road
@@ -3311,7 +3311,7 @@ ethnicity
 gender
 maintenance
 mode change
-new zeal
+new zealand
 physical activity
 behavimy
 socio-psychological
@@ -3360,14 +3360,14 @@ macrotexture
 information theory
 road
 road surface
-s circle test
+sand circle test
 surface texture
 texture measurement
 accident
 crash
 cyclist
 modelling
-new zeal
+new zealand
 pedestrian
 prediction
 reporting rate
@@ -3375,7 +3375,7 @@ road
 crash
 driver behavimy
 hazard
-new zeal
+new zealand
 risk
 accident
 road sign
@@ -3391,7 +3391,7 @@ curvature
 intersection
 maximum path radiu
 multi-lane roundabout
-new zeal
+new zealand
 road marking
 road
 roundabout
@@ -3400,7 +3400,7 @@ tracking curf
 traffic
 congestion charging
 hot lane
-new zeal
+new zealand
 success factor
 toll road
 aquatic ecotoxicity
@@ -3413,13 +3413,13 @@ ecotoxicity
 environment
 hazardous substance
 kerosene
-new zeal
+new zealand
 adhesion
 binder
 bituman
 chipseal
 flushing
-new zeal
+new zealand
 rheological property
 road
 texture
@@ -3433,13 +3433,13 @@ industry
 load
 matrix
 modelling
-new zeal
+new zealand
 rail
 road
 transport
 contaminant
 monitoring
-new zeal
+new zealand
 road
 road runoff
 stormwater contaminant
@@ -3451,7 +3451,7 @@ heavy vehicle
 load
 loading
 mass limit
-new zeal
+new zealand
 pavement
 pavement loading
 pavement performance
@@ -3468,7 +3468,7 @@ heavy vehicle
 load
 loading
 mass limit
-new zeal
+new zealand
 pavement
 pavement loading
 pavement performance
@@ -3485,7 +3485,7 @@ heavy vehicle
 load
 loading
 mass limit
-new zeal
+new zealand
 pavement
 pavement loading
 pavement performance
@@ -3503,7 +3503,7 @@ pavement
 road
 seal layer
 shear
-new zeal
+new zealand
 pavement
 pavement condition
 pavement monitoring
@@ -3512,17 +3512,17 @@ rut depth
 simulation
 straight-edge
 hazard
-new zeal
+new zealand
 risk management
 risk assessment
 road
 road closure
 state highway
 environment
-new zeal
+new zealand
 planning
 policy
-regional l transport strategy
+regional land transport strategy
 strategic environmental assessment
 transport
 walking
@@ -3533,14 +3533,14 @@ best practice
 transport
 vision objective
 policy
-new zeal
+new zealand
 child
 cycle
 cyclist
 force
 motorist
 need
-new zeal
+new zealand
 obstacle
 risk
 road
@@ -3555,7 +3555,7 @@ coastal
 debris control
 design flow
 hydrology
-new zeal
+new zealand
 residential zone
 road
 rural zone
@@ -3598,7 +3598,7 @@ warning
 zone
 economic
 modelling
-new zeal
+new zealand
 pricing
 road
 road tolling
@@ -3606,7 +3606,7 @@ toll scheme
 traffic
 urban area
 household travel
-new zeal
+new zealand
 round trip
 school travel
 segment
@@ -3618,7 +3618,7 @@ activity management system
 a-train
 b-train
 commercial
-equivalent stard axle
+equivalent standard axle
 fringe
 heavy commercial vehicle
 industrial
@@ -3650,12 +3650,12 @@ cross-sectional geometry
 safety
 employee
 employer
-new zeal
+new zealand
 planning
 public transport
 staff
 transport
-travel dem management 
+travel demand management 
 travel plan
 travel survey
 environment
@@ -3665,7 +3665,7 @@ impact
 transport
 policy
 planning
-new zeal
+new zealand
 compliance
 design
 drainage
@@ -3678,7 +3678,7 @@ maintenance
 management
 mitigation
 monitoring
-new zeal
+new zealand
 resource consent
 resource management act
 run-off
@@ -3690,7 +3690,7 @@ database
 design
 hdm iii
 modelling
-new zeal
+new zealand
 pavement
 pavement design
 performance
@@ -3740,7 +3740,7 @@ crash
 design
 driver behavimy
 lane design
-new zeal
+new zealand
 overtaking
 road
 accident
@@ -3750,7 +3750,7 @@ traffic
 vehicle
 composition
 love wave
-new zeal
+new zealand
 p-wave
 pavement
 rayleigh wave
@@ -3768,16 +3768,16 @@ speed
 speed constraint
 speed change
 speed variability
-variable matory speed
+variable mandatory speed
 weather condition
 beam
 bridge
 concrete
 design
-new zeal
+new zealand
 precast
 span
-stard
+standard
 superstructure
 bridge
 cathodic protection
@@ -3787,7 +3787,7 @@ concrete repair
 corrosion
 cost
 extrochemical treatment
-new zeal
+new zealand
 patch repair
 reinforcement corrosion
 road
@@ -3801,7 +3801,7 @@ foamed bituman
 foam mix
 gradation curf
 mixing
-new zeal
+new zealand
 pavement
 performance
 road
@@ -3815,10 +3815,10 @@ reinstatement surface index
 roughnes
 sectioning
 predictive modelling
-dem
+demand
 elasticity
 fuel price
-new zeal
+new zealand
 parking charge
 passenger transport
 private transport
@@ -3833,7 +3833,7 @@ vehicle operating cost
 chipseal
 inertial
 longitudinal
-new zeal
+new zealand
 profiler
 road
 roughnes
@@ -3846,7 +3846,7 @@ bus
 car
 cycling
 marketing
-new zeal
+new zealand
 public transport
 road
 safety
@@ -3861,14 +3861,14 @@ trarr
 twopas
 paramics
 ihsdm
-new zeal
+new zealand
 asphalt
 chipseal
 frost
 ice
 macrotexture
 microtexture
-new zeal
+new zealand
 pavement
 road
 road surface
@@ -3880,7 +3880,7 @@ texture
 traffic
 aimsun2
 modelling
-new zeal
+new zealand
 road
 safety
 traffic
@@ -3898,7 +3898,7 @@ simulation
 behavimy
 evaluation
 modelling
-new zeal
+new zealand
 peak contraction
 peak spreading
 peak traffic
@@ -3910,7 +3910,7 @@ economic
 education
 evaluation
 slow mode
-new zeal
+new zealand
 peak traffic
 private car
 public transport
@@ -3925,7 +3925,7 @@ failure
 geosythetic
 guideline
 loading
-new zeal
+new zealand
 reinforcement
 road
 run-off
@@ -3934,7 +3934,7 @@ strength
 structure
 drainage
 moisture
-new zeal
+new zealand
 pavement
 pavement design
 road
@@ -3946,7 +3946,7 @@ accessibility
 benefit
 evaluation
 mobility
-new zeal
+new zealand
 passenger transport
 public transport
 road
@@ -3957,7 +3957,7 @@ environment
 environmental benefit
 global consent
 highway maintenance
-new zeal
+new zealand
 regional plan
 region-wide consent
 resource consent
@@ -3971,26 +3971,26 @@ concrete
 concrete repair
 corrosion
 extrochemical treatment
-new zeal
+new zealand
 realkalisation
 reinforcement
 asphalt
 bituman
 long-life
-new zeal
+new zealand
 pavement
 road
 top-down cracking
 transport
 accident
 analysi
-auckl
+auckland
 before after
 crash
 flush median
 median
-new zeal
-pedestrian isl
+new zealand
+pedestrian island
 road
 safety traffic
 aggregate
@@ -4000,7 +4000,7 @@ captif
 gyratory test
 marshall test
 mix
-new zeal
+new zealand
 pavement
 pavement design
 pavement mix
@@ -4010,7 +4010,7 @@ traffic
 accelerated pavement testing
 captif
 loading
-new zeal
+new zealand
 pavement
 pavement loading
 pavement performance
@@ -4029,7 +4029,7 @@ cycle
 cycling
 golden river
 metrocount
-new zeal
+new zealand
 off-road
 on-road
 pneumatic tube
@@ -4040,7 +4040,7 @@ urban
 vehicle
 cost
 heavy vehicle
-new zeal
+new zealand
 road-friendly suspension
 suspension
 suspension testing
@@ -4054,7 +4054,7 @@ environment
 heavy metal
 inorganic compound
 modelling
-new zeal
+new zealand
 organic compound
 pah
 pavement
@@ -4075,7 +4075,7 @@ edge
 break
 maintenance
 modelling
-new zeal
+new zealand
 pavement
 potholing
 ramm
@@ -4089,17 +4089,17 @@ traffic
 horizontal curf
 rural highway
 advisory speed sign
-new zeal
+new zealand
 assessment
 coastline
 consent condition
 dust
 environment
 fish
-lscaping
+landscaping
 management
 mitigation
-new zeal
+new zealand
 noise
 pollution
 protection
@@ -4118,10 +4118,10 @@ consent condition
 dust
 environment
 fish
-lscaping
+landscaping
 management
 mitigation
-new zeal
+new zealand
 noise
 pollution
 protection
@@ -4135,14 +4135,14 @@ vegetation
 weed
 wildlife
 analysi
-auckl christchurch
+auckland christchurch
 cost-effectivenes
 cost
 databasis
 elasticity
 evaluation
 monitoring
-new zeal
+new zealand
 patronage
 public transport
 road
@@ -4150,7 +4150,7 @@ traffic
 travel mode
 wellington
 natural hazard
-new zeal
+new zealand
 roads risk
  management
 policy
@@ -4161,7 +4161,7 @@ environment
 indigenous vegetation
 introduced vegetation
 native vegetation
-new zeal
+new zealand
 probability
 regression analysi
 road
@@ -4172,7 +4172,7 @@ vegetation
 waikato
 weed
 highway
-new zeal
+new zealand
 overtaking
 passing lane
 project evaluation
@@ -4185,7 +4185,7 @@ traffic
 asphalt
 construction demolition waste
 impediment
-new zeal
+new zealand
 policy
 recycling
 specification
@@ -4193,7 +4193,7 @@ analysi
 change point
 cucum method
 management
-new zeal
+new zealand
 normal scores transform
 pavement
 principal
@@ -4203,7 +4203,7 @@ statistical analysi
 treatment length
 segmentation
 natural hazard
-new zeal
+new zealand
 roads risk
  management
 mitigation
@@ -4219,7 +4219,7 @@ aggregate
 blend
 chip
 m/21p specification
-new zeal
+new zealand
 polished stone value
 skid resistance
 accelerated pavement testing
@@ -4247,16 +4247,16 @@ crash
 cycle injury
 cycle safety
 cycling
-new zeal
+new zealand
 road safety
 road
 survey
 traffic
 city centre
 design hmy
-l use
-new zeal
-parking dem
+land use
+new zealand
+parking demand
 residential
 retail
 surveys database
@@ -4264,9 +4264,9 @@ trend
 trip generation
 city centre
 design hmy
-l use
-new zeal
-parking dem
+land use
+new zealand
+parking demand
 residential
 retail
 surveys database
@@ -4284,7 +4284,7 @@ sh1
 accelerated pavement testing
 captif
 loading
-new zeal
+new zealand
 pavement
 pavement performance
 road
@@ -4302,7 +4302,7 @@ aadt
 traffic growth
 accuracy
 monitoring programme basi
-new zeal
+new zealand
 asphalt
 binder
 noise reduction
@@ -4322,7 +4322,7 @@ traffic count
 electronic traffic datum
 aadt
 hierarchical cluster analysi
-new zeal
+new zealand
 cost-benefit analysi
 community
 environment
@@ -4350,7 +4350,7 @@ californian bearing ration
 fwd
 falling weight deflectometer
 modulu
-new zeal
+new zealand
 pavement
 road
 strength
@@ -4366,14 +4366,14 @@ stated choice
 conjoint analysi
 valuation method
 transport evaluation
-new zeal
+new zealand
 bridge
-bridge scmy
-bridge screening
+bridge
+bridge
 design
 failure
 flooding
-new zeal
+new zealand
 risk management
 river
 road
@@ -4385,14 +4385,14 @@ foam
 bituman
 unsealed road
 central otago
-new zeal
+new zealand
 construction
 design
 earthquake
 failure
 geosythetic
 loading
-new zeal
+new zealand
 reinforcement
 road
 run-off
@@ -4403,7 +4403,7 @@ travel time saving
 transport
 evaluation
 state choice model
-new zeal
+new zealand
 accident
 economic evaluation
 prediction model
@@ -4415,10 +4415,10 @@ bayesian method
 traffic growth
 forecasting
 project evaluation
-travel dem
-new zeal
+travel demand
+new zealand
 guideline
-new zeal
+new zealand
 noise
 residential area
 road
@@ -4444,39 +4444,39 @@ austroads
 rlt testing
 resilient modulu
 bridge
-bridge deck
-bridge superstructure
+bridge
+bridge
 deck joint
-new zeal
+new zealand
 road
 traffic
 design traffic loading
 commodity survey
-equivalent stard axles weigh-in-motion
+equivalent standard axles weigh-in-motion
 urban public transport
 user valuation
 journey attribute
 user benefit
-forecasting dem
+forecasting demand
 home interview
 household
 individual
 interview
-new zeal
+new zealand
 survey
 traffic
 travel
 bioenzyme
 clay modifier
 endurazyme #388
-new zeal
+new zealand
 pavement
 road
 stabilisation
 tararua district
 treatment
 unsealed road
-bridge scmy
+bridge
 riprap
 protection
 hydraulic modelling
@@ -4510,125 +4510,125 @@ retroreflective measurement
 skid resistance
 test method
 test repeatability
-new zeal
+new zealand
 m/7 specification
 no key word
 bridge
-bridge dynamic
-bridge health
-bridge load
+bridge
+bridge
+bridge
 heavy vehicle
 loading
 monitoring
-new zeal
+new zealand
 performance
 road
 superstructure
 traffic
 bridge
-bridge dynamic
-bridge health
-bridge load
+bridge
+bridge
+bridge
 heavy vehicle
 loading
 monitoring
-new zeal
+new zealand
 performance
 road
 superstructure
 traffic
 bridge
-bridge dynamic
-bridge health
-bridge load
+bridge
+bridge
+bridge
 heavy vehicle
 loading
 monitoring
-new zeal
+new zealand
 performance
 road
 superstructure
 traffic
 bridge
-bridge dynamic
-bridge health
-bridge load
+bridge
+bridge
+bridge
 heavy vehicle
 loading
 monitoring
-new zeal
+new zealand
 performance
 road
 superstructure
 traffic
 bridge
-bridge dynamic
-bridge health
-bridge load
+bridge
+bridge
+bridge
 heavy vehicle
 loading
 monitoring
-new zeal
+new zealand
 performance
 road
 superstructure
 traffic
 bridge
-bridge dynamic
-bridge health
-bridge load
+bridge
+bridge
+bridge
 heavy vehicle
 loading
 monitoring
-new zeal
+new zealand
 performance
 road
 superstructure
 traffic
 bridge
-bridge dynamic
-bridge health
-bridge load
+bridge
+bridge
+bridge
 heavy vehicle
 loading
 monitoring
-new zeal
+new zealand
 performance
 road
 superstructure
 traffic
 bridge
-bridge dynamic
-bridge health
-bridge load
+bridge
+bridge
+bridge
 heavy vehicle
 loading
 monitoring
-new zeal
+new zealand
 performance
 road
 superstructure
 traffic
 bridge
-bridge dynamic
-bridge health
-bridge load
+bridge
+bridge
+bridge
 heavy vehicle
 loading
 monitoring
-new zeal
+new zealand
 performance
 road
 superstructure
 traffic
 bridge
-bridge dynamic
-bridge health
-bridge load
+bridge
+bridge
+bridge
 heavy vehicle
 loading
 monitoring
-new zeal
+new zealand
 performance
 road
 superstructure
@@ -4638,14 +4638,14 @@ dynamic wheel load
 inflation
 pressure
 load
-new zeal
+new zealand
 pavement response
 pavement wear
 tyre
 wear
 wheel
 dynamic wheel load
-new zeal
+new zealand
 loading
 pavement
 pavement wear
@@ -4660,14 +4660,14 @@ bituman
 chip los
 chipseal
 emulsion
-new zeal
+new zealand
 pmb
 polymer
 road
 traffic
 forecasting
 modelling
-new zeal
+new zealand
 ownership
 road
 traffic
@@ -4681,11 +4681,11 @@ assessment
 bituman
 chipseal
 durability
-new zeal
+new zealand
 quality assurance
 quality control
 road
-stard
+standard
 testing
 biodiversity
 conservation
@@ -4696,24 +4696,24 @@ survey
 state highway 3
 geographic information system
 environmental domain
-l cover
+land cover
 road management
 chipseal
 flushing
 water
 permeability
-new zeal
+new zealand
 road
 drainage
 geosynthetic
-new zeal
+new zealand
 pavement
 road
 bituman
 control
 instrumentation
 measurement
-new zeal
+new zealand
 refining
 road
 temperature-sensitivity
@@ -4732,8 +4732,8 @@ wavelet analysi
 catchbasin
 contaminant
 device
-auckl
-new zeal
+auckland
+new zealand
 pollution
 run-off
 road
@@ -4756,7 +4756,7 @@ supervision
 testing
 bu
 matrix
-new zeal
+new zealand
 public transport
 transport
 trip
@@ -4771,7 +4771,7 @@ lahar
 mitigation
 modelling
 natural hazard
-new zeal
+new zealand
 risk
 risk assessment
 road
@@ -4794,7 +4794,7 @@ safety
 simulation
 trarr
 project evaluation
-new zeal
+new zealand
 traffic
 parking
 parking restraint
@@ -4809,7 +4809,7 @@ construction
 design
 engineering
 maintenance
-new zeal
+new zealand
 pavement
 performance
 research
@@ -4820,7 +4820,7 @@ survey
 basecourse
 captif
 loading
-new zeal
+new zealand
 pavement
 road
 sub-base
@@ -4842,19 +4842,19 @@ seasonal variation
 skid resistance
 temperature correction
 valuation of travel time
-new zeal
+new zealand
 aging
 bituman
 chipseal
 durability
 field trial
 hardening
-new zeal
+new zealand
 pavement
 rheology
 road
 surfacing
-new zeal
+new zealand
 parking
 policy
 public transport
@@ -4872,7 +4872,7 @@ hazard
 instability
 maintenance
 monte carlo simulation
-new zeal
+new zealand
 probability
 risk
 road
@@ -4885,7 +4885,7 @@ geotechnology
 hazard
 instability
 maintenance
-new zeal
+new zealand
 optimisation
 probability
 risk
@@ -4894,7 +4894,7 @@ basecourse
 cracking
 fibre
 fibre reinforcement
-new zeal
+new zealand
 pavement
 reinforcing
 road
@@ -4906,7 +4906,7 @@ erosion
 guideline
 maintenance
 management
-new zeal
+new zealand
 road
 road work
 sediment control
@@ -4919,7 +4919,7 @@ erosion
 guideline
 maintenance
 management
-new zeal
+new zealand
 road
 road work
 sediment control
@@ -4932,7 +4932,7 @@ erosion
 guideline
 maintenance
 management
-new zeal
+new zealand
 road
 road work
 sediment control
@@ -4942,7 +4942,7 @@ water quality
 bridge
 concrete
 durability
-new zeal
+new zealand
 road
 state highway
 taranaki brown ash
@@ -4950,7 +4950,7 @@ pavement design
 subgrade strain
 pavement deflection design
 cbr
-new zeal
+new zealand
 pavement
 pavement design
 road
@@ -4964,7 +4964,7 @@ ravelling
 elastic modulu
 falling weight deflectometer
 fwd
-new zeal
+new zealand
 pavement
 pavement design
 road
@@ -4973,7 +4973,7 @@ testing
 elastic modulu
 falling weight deflectometer
 fwd
-new zeal
+new zealand
 pavement
 pavement design
 road
@@ -4983,7 +4983,7 @@ design
 geosynthetic
 geotextile
 grs
-new zeal
+new zealand
 reinforcing
 seismic behavimy
 soil structure
@@ -4993,19 +4993,19 @@ bituman
 chipseal
 compaction
 flushing
-new zeal
+new zealand
 road
 traffic
 viscosity
 environment
 modelling
-new zeal
+new zealand
 noise
 road
 traffic
 asphalt
 chipseal
-new zeal
+new zealand
 noise
 asphalt
 pavement
@@ -5030,7 +5030,7 @@ surface profile
 cost
 literature
 maintenance
-new zeal
+new zealand
 operator
 repair
 road condition
@@ -5067,27 +5067,27 @@ aggregate
 bituman
 emulsion
 melter slag
-new zeal
+new zealand
 ogem
 overlay
 pavement
 road
 trial
 moisture
-new zeal
+new zealand
 pavement
 research
 road
-s circle
+sand circle
 texture depth
-transit new zeal stationary laser profilometer
+transit new zealand stationary laser profilometer
 repeatability
 reproducibility
 alternative test
 wallpaper size
 cone penetration test
 cpt
-stard penetration test
+standard penetration test
 spt
  dynamic consolidation
 earthquake
@@ -5096,7 +5096,7 @@ shear wave
 bus
 fare
 hamilton
-new zeal
+new zealand
 public transport
 road
 service
@@ -5125,13 +5125,13 @@ austroads
 cemented
 design
 modified
-new zeal
+new zealand
 pavement design
 road
 soil-cement fatigue
 stabilisation
 subgrade
-new zeal
+new zealand
 road safety device
 road
 rumble strip
@@ -5140,7 +5140,7 @@ warning
 aging
 asphalt
 bituman
-new zeal
+new zealand
 oil
 recycling
 road
@@ -5169,8 +5169,8 @@ environment
 fauna
 hydrology
 invertebrate
-l slip
-new zeal
+land slip
+new zealand
 periphyton
 sediment
 river
@@ -5187,13 +5187,13 @@ dynamic wheel load
 abrasion
 friction
 griptester
-new zeal
+new zealand
 pavement
 road texture
 tyre tread wear
 vehicle
 behavimy
-new zeal
+new zealand
 resource
 time
 travel
@@ -5202,7 +5202,7 @@ value
 communication
 highway
 information system
-new zeal
+new zealand
 road
 road information
 road sensor
@@ -5222,7 +5222,7 @@ roughness meter
 accident
 passing lane
 unsealed road
-new zeal
+new zealand
 flood
 river
 channel resistance
@@ -5231,7 +5231,7 @@ assessment
 local authority road
 maintenance
 management
-new zeal
+new zealand
 pavement
 pavement management
 ramm
@@ -5240,7 +5240,7 @@ selection
 state highway
 treatment
 attitude
-new zeal
+new zealand
 market research
 perception
 road
@@ -5251,7 +5251,7 @@ user
 waipoua
 accident
 crash
-new zeal
+new zealand
 project evaluation
 road geometry
 severity
@@ -5261,19 +5261,19 @@ laser
 mean profile depth
 mpd
 measurement
-new zeal
+new zealand
 profile
 profilometer
 road
 road surface
 texture
 accelerometer
-bpas
+bandpas
 concrete block
 drive-by
 exterior noise
 interior noise
-new zeal
+new zealand
 noise
 1/2 octave
 paver
@@ -5285,14 +5285,14 @@ spectra
 spectral analysi
 vehicle
 bridge
-bridge scmy
+bridge
 hydraulic design
 scour protection
 riprap
 road
 attitude
 discomfort
-new zeal
+new zealand
 market research
 perception
 risk
@@ -5317,7 +5317,7 @@ bridge
 capacity design
 concrete
 earthquake
-new zeal
+new zealand
 plain bar
 reinforcing steel
 retrofitting
@@ -5328,27 +5328,27 @@ time-history analysi
 bridge
 capacity design
 earthquake
-new zeal
+new zealand
 retrofitting
 seismic evaluation
 structural engineering
-thorndon bridge
+bridge
 design traffic
 austroads pavement design
 axle load
 axle configuration
-new zeal supplement
+new zealand supplement
 bridge
 code
 manual
 road structure
 backfill
-bridge abutment
+bridge
 bridge
 flowable material
 foamed concrete
 fly ash
-new zeal
+new zealand
 pavement
 polystyrene
 road
@@ -5360,7 +5360,7 @@ british pendulum tester
 chip
 friction
 grade
-new zeal
+new zealand
 pavement
 pendulum number
 repeatability
@@ -5376,7 +5376,7 @@ construction
 cost
 economic analysi
 monitoring
-new zeal
+new zealand
 road
 roughnes
 testing
@@ -5388,19 +5388,19 @@ bridge
 load
 dynamic
 impact
-new zeal
+new zealand
 highway
 accident
 conspicuity
 visibility
 safety garment
 road worker
-new zeal
+new zealand
 aggregate
 basecourse
 construction
 design
-new zeal
+new zealand
 pavement
 road
 shakedown
@@ -5413,7 +5413,7 @@ bitumen
 bituminous mix
 fatigue
 fatigue life
-new zeal
+new zealand
 pavement
 pavement layer
 road
@@ -5429,7 +5429,7 @@ pavement
 radar
 service
 minimum performance level
-new zeal
+new zealand
 night-time visibility
 retroreflectivity
 retroreflectometer
@@ -5438,7 +5438,7 @@ visibility
 bituman
 cement
 lime
-new zeal
+new zealand
 pavement
 road
 stabilisation
@@ -5446,7 +5446,7 @@ macrotexture
 measurement
 megatexture
 microtexture
-new zeal
+new zealand
 profilometer
 road
 road surface
@@ -5459,14 +5459,14 @@ pavement
 bituman
 binder
 asphalt
-new zeal
+new zealand
 chipseal
 coastdown
 cost
 fuel
 fuel consumption
 macrotexture
-new zeal
+new zealand
 road/tyre interaction
 road
 rolling resistance
@@ -5492,11 +5492,11 @@ earthquake
 highway
 road
 seismic
-new zeal
-l use
-new zeal
+new zealand
+land use
+new zealand
 parking
-parking dem
+parking demand
 survey
 traffic
 traffic survey
@@ -5510,7 +5510,7 @@ driver age
 driving
 driving behavimy
 gap acceptance
-new zeal
+new zealand
 older driver
 road
 rural
@@ -5525,7 +5525,7 @@ loading
 load
 logging
 maintenance
-new zeal
+new zealand
 pavement
 production
 road
@@ -5534,7 +5534,7 @@ trip
 database
 national
 national traffic database
-new zeal
+new zealand
 quality plan
 planning road
 road use
@@ -5548,7 +5548,7 @@ weight
 database
 national
 national traffic database
-new zeal
+new zealand
 quality plan
 planning road
 road use
@@ -5562,7 +5562,7 @@ weight
 database
 national
 national traffic database
-new zeal
+new zealand
 traffic
 traffic flow
 traffic volume
@@ -5571,7 +5571,7 @@ vehicle clas
 vehicle weight
 weight
 literature
-new zeal
+new zealand
 ramm
 rating system
 review
@@ -5579,7 +5579,7 @@ road
 unsealed road
 freeze-thaw
 frost action
-new zeal
+new zealand
 pavement
 pavement design
 road
@@ -5589,7 +5589,7 @@ autoxidation
 bituman
 chemistry
 hardening
-new zeal
+new zealand
 road
 bituman
 pavement
@@ -5619,7 +5619,7 @@ safety
 traffic
 clogging
 friction course
-new zeal
+new zealand
 pavement
 permeability
 porosity
@@ -5628,7 +5628,7 @@ void
 bu
 coach
 milford sound
-new zeal
+new zealand
 rental card
 road
 tourism
@@ -5637,23 +5637,23 @@ unsealed road
 freight transport
 heavy transport
 heavy vehicle
-new zeal
+new zealand
 road
 route
 transport
 vehicle
 fibre reinforcement
-new zeal
+new zealand
 road
 road base
 soil strength
 bond
 bridge
 concrete
-concrete bridge
+bridge
 curing
 deck
-new zeal
+new zealand
 road
 strength
 alkali aggregate reaction
@@ -5661,7 +5661,7 @@ beam
 bridge
 flexural strength
 hollow core beam
-new zeal
+new zealand
 prestressed concrete
 strength
 testing
@@ -5677,7 +5677,7 @@ hamilton
 north shore
 timaru
 whangarei
-new zeal
+new zealand
 accident
 accident
 accident
@@ -5702,7 +5702,7 @@ borresperse ca
 dust
 dust palliative
 lignosulphonate
-new zeal
+new zealand
 road
 unsealed road
 waste oil
@@ -5717,7 +5717,7 @@ unpaved road
 unsealed road
 vehicle operating cost
 public passenger transport procurement
-new zeal
+new zealand
 bu
 competitive tendering
 contracting
@@ -5727,7 +5727,7 @@ databasis
 geographic information system
 information system
 information technology
-new zeal
+new zealand
 road
 rta
 spatial analysi
@@ -5735,12 +5735,12 @@ spatial information system
 state highway
 vic roads
 bridge
-bridge management system
+bridge
 brimms
 inspection
 maintenance
 management
-new zeal
+new zealand
 ponti
 road
 transport
@@ -5783,7 +5783,7 @@ tracking curf
 truck
 attitude
 market research
-new zeal
+new zealand
 road
 state highway
 user
@@ -5804,7 +5804,7 @@ road profile
 road roughnes
 roughnes
 modelling
-new zeal
+new zealand
 noise
 prediction
 roughnes
@@ -5815,13 +5815,13 @@ bus
 competition
 contract
 deregulation
-new zeal
+new zealand
 passenger transport
 road transport
 tendering
 bridge
 computer program
-new zeal
+new zealand
 overload
 permit
 state highway
@@ -5847,7 +5847,7 @@ congestion
 cost
 environmental effect
 externality
-l transport
+land transport
 pricing
 road
 road user
@@ -5857,8 +5857,8 @@ environmental effect
 externality
 interference
 intrusion
-l transport
-l use
+land transport
+land use
 non-market valuation
 pollution
 transport
@@ -5867,7 +5867,7 @@ transportation impact
 urban
 charging
 cost
-l transport
+land transport
 pricing
 road
 road user
@@ -5885,7 +5885,7 @@ health
 horticulture
 housing
 insurance
-l value
+land value
 palliative
 person
 pollution
@@ -5910,7 +5910,7 @@ total mobility scheme
 social service
 analysi
 evaluation sensitivity
-new zeal
+new zealand
 project evaluation
 uncertainty
 united kingdom
@@ -5944,11 +5944,11 @@ emulsion
 maintenance
 pavement
 road
-new zeal
+new zealand
 accident
 countermeasure
 review
-new zeal
+new zealand
 literature
 bibliography
 calibration
@@ -6023,7 +6023,7 @@ interrupted flow
 model
 road
 australium
-new zeal
+new zealand
 aggregate
 roading
 communication
@@ -6031,6 +6031,6 @@ road aggregate
 road
 whanganui
 taranaki
-non-stard aggregate
+non-standard aggregate
 shell rock
 aggregate
