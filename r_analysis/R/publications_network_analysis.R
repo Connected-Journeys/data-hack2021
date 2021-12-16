@@ -12,7 +12,10 @@ library(networkD3)
 library(ggplot2)
 library(here)
 
-# read data
+######################
+## DATA PREPARATION ## 
+######################
+# read data - one row per paper-keyword combo
 theme_tidy <- function(theme){
   # get only the first word from theme field
     str_split(theme, pattern = " |,")[[1]][1]
@@ -24,7 +27,8 @@ keywords_enriched <- read.xlsx("../data/summary_lemmatization_v2.xlsx",
   mutate(new_theme = map(theme, theme_tidy)) %>% 
   unnest(cols = c(new_theme))
 
-# 3 keywords per paper
+
+# pull out 3 keywords per paper
 paper_keywords <- keywords_enriched %>% 
   filter(!new_label %in% c("New Zealand",
                                      "roads", 
@@ -35,7 +39,11 @@ paper_keywords <- keywords_enriched %>%
             keyword_2 = new_label[2],
             keyword_3 = new_label[3])
 
-## paper graphs
+
+#####################
+## PAIRWISE COUNTS ## 
+#####################
+# prep data to build pairwise counts
 papers_raw <- keywords_enriched %>% 
   select(report_note_number, new_label) %>% 
   rename(paper_1 = report_note_number)
@@ -58,12 +66,14 @@ papers_pairs <- papers_df %>%
                                      "road")) %>%
   group_by(paper_1, paper_2) %>% 
   summarise(shared_keywords = n_distinct(new_label)) %>% 
+  # this chunk removes reverse duplicates
   group_by(grp = paste(pmax(paper_1, paper_2), 
                        pmin(paper_1, paper_2),
                        sep = "_")) %>%
   slice(1) %>%
   ungroup() %>%
   select(-grp) %>% 
+  # joining on useful variables per paper e.g. theme
   left_join(keywords_enriched %>% 
               select(report_note_number, new_theme) %>% 
               distinct(),
@@ -76,15 +86,23 @@ papers_pairs <- papers_df %>%
   rename(new_theme2 = new_theme)  
 
 
-# create graph structure 
+####################
+## PAPERS NETWORK ## 
+####################
 # filter appropriately..
 papers_pairs_graph <- tidygraph::as_tbl_graph(
+  # apply filters
   papers_pairs %>%
     filter(shared_keywords >= 3) %>% 
+    # only get pairs where either is linked to safety theme
+    # is able to connect related papers that are each not 
+    # explicitly associated to safety
     filter(new_theme1 == "Safety" | new_theme2 == "Safety")
   ) %>% 
   activate("nodes") %>% 
+  # community detection algorithm
   mutate(community = as.factor(group_infomap())) %>% 
+  # joining on useful information to nodes
   left_join(keywords_enriched %>% select(report_note_number, 
                                 published_date, 
                                 researcher,
@@ -102,7 +120,8 @@ ggraph(papers_pairs_graph, layout="fr") +
                       colour = community))
 
 
-# interactive viz
+# interactive viz with networkD3 (wrapper around D3.js)
+# change node ID to 0 index
 nodes <- papers_pairs_graph %>%
   activate("nodes") %>%
   as.data.frame() %>% mutate(id = row_number() - 1)
@@ -135,6 +154,10 @@ papers_pairs_graph %>%
          Target = to) %>%
   write.csv(here::here("results", "safety_papers_edges.csv"))
 
+
+################
+## ADDITIONAL ## 
+################
 
 # Visualise paper ID sequence 
 get_paper_number <- function(id_to){
