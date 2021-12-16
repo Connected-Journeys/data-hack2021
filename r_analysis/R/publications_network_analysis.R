@@ -30,11 +30,11 @@ keywords_enriched <- read.xlsx("../data/summary_lemmatization_v2.xlsx",
 
 # pull out 3 keywords per paper
 paper_keywords <- keywords_enriched %>% 
-  filter(!new_label %in% c("New Zealand",
-                                     "roads", 
-                                     "transport", 
-                                     "road")) %>%
+  filter(!new_label %in% c("new zeal",
+                           "road",
+                           "transport")) %>%
   group_by(report_note_number) %>% 
+  arrange(new_label) %>%
   summarise(keyword_1 = new_label[1],
             keyword_2 = new_label[2],
             keyword_3 = new_label[3])
@@ -60,10 +60,9 @@ papers_df <- papers_raw %>%
 # taken from https://stackoverflow.com/a/56193682
 # joining theme 
 papers_pairs <- papers_df %>% 
-  filter(!new_label %in% c("New Zealand",
-                                     "roads", 
-                                     "transport", 
-                                     "road")) %>%
+  filter(!new_label %in% c("new zeal",
+                           "road", 
+                           "transport")) %>%
   group_by(paper_1, paper_2) %>% 
   summarise(shared_keywords = n_distinct(new_label)) %>% 
   # this chunk removes reverse duplicates
@@ -93,15 +92,18 @@ papers_pairs <- papers_df %>%
 papers_pairs_graph <- tidygraph::as_tbl_graph(
   # apply filters
   papers_pairs %>%
-    filter(shared_keywords >= 3) %>% 
+    filter(shared_keywords >= 2) 
     # only get pairs where either is linked to safety theme
     # is able to connect related papers that are each not 
     # explicitly associated to safety
-    filter(new_theme1 == "Safety" | new_theme2 == "Safety")
+  %>% filter(new_theme1 == "Safety" | new_theme2 == "Safety")
   ) %>% 
+  to_undirected() %>%
   activate("nodes") %>% 
   # community detection algorithm
-  mutate(community = as.factor(group_infomap())) %>% 
+  mutate(community = as.factor(group_fast_greedy()), 
+         betweenness = centrality_betweenness(), 
+         degree = centrality_degree()) %>% 
   # joining on useful information to nodes
   left_join(keywords_enriched %>% select(report_note_number, 
                                 published_date, 
@@ -116,7 +118,7 @@ papers_pairs_graph <- tidygraph::as_tbl_graph(
 # simple viz
 ggraph(papers_pairs_graph, layout="fr") + 
   geom_edge_link() + 
-  geom_node_point(aes(size = centrality_degree(), 
+  geom_node_point(aes(size = betweenness, 
                       colour = community))
 
 
@@ -155,6 +157,19 @@ papers_pairs_graph %>%
   write.csv(here::here("results", "safety_papers_edges.csv"))
 
 
+# export top papers within community
+safety_nodes <- papers_pairs_graph %>% 
+  activate("nodes") %>%
+  as_tibble()
+
+safety_nodes %>% 
+  group_by(community) %>% 
+  arrange(desc(degree)) %>% 
+  slice(1) %>% 
+  inner_join(safety_nodes %>%
+               count(community)) %>% 
+  write.csv(here::here("results", "well_connected_safety_papers.csv"))
+
 ################
 ## ADDITIONAL ## 
 ################
@@ -164,7 +179,8 @@ get_paper_number <- function(id_to){
   # extract paper number from ID string
   try(
     str_extract_all(id_to, "[0-9]+") %>%
-    first() %>%
+    first() %>% 
+      first()%>%
     as.numeric(), 
     TRUE
   )
